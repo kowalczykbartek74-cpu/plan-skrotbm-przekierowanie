@@ -1,0 +1,1887 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-4a3a791142a9",
+ "kierunek": "Logistyka",
+ "kierunekEn": "Logistics",
+ "id": "wefiz-log-1-nst-2024",
+ "kod": "logn24",
+ "wydzial": "WEFiZ",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T20:22:14.856Z",
+ "groups": {
+  "C31": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16",
+      "2026-11-13",
+      "2026-11-27",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "K",
+     "p": "mgr Hanna Basiak",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "K",
+     "p": "mgr Hanna Basiak",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "K",
+     "p": "mgr Hanna Basiak",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-14",
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "18:50"
+     ],
+     "pl": "systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język hiszpański II",
+     "k": "K",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język hiszpański II",
+     "k": "K",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 507 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-16",
+      "2026-11-13",
+      "2026-11-27",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:15",
+      "19:45"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Konrad Bachanek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "K",
+     "p": "mgr Hanna Basiak",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "K",
+     "p": "mgr Hanna Basiak",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język angielski",
+     "k": "K",
+     "p": "mgr Hanna Basiak",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr Angelika Pałgan",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-12-12",
+      "2027-01-09",
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 707 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-17",
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-11-14",
+      "2026-12-12",
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "18:50"
+     ],
+     "pl": "systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28",
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-24",
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr inż. Konrad Bachanek, dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-03"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "seminarium dyplomowe",
+     "k": "S",
+     "p": "dr Agnieszka Gozdek",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-10",
+      "2026-10-17"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 112 Cuk.8",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język hiszpański II",
+     "k": "K",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-04",
+      "2026-10-11",
+      "2026-10-18",
+      "2026-10-25",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "język hiszpański II",
+     "k": "K",
+     "p": "mgr Agnieszka Jakóbiak",
+     "r": "s. 523 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 137/138 lab Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "W",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "CW",
+     "p": "dr Ewa Puzio",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-10-18",
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "spedycja",
+     "k": "CW",
+     "p": "dr Elżbieta Szaruga",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "systemy informatyczne w transporcie ładunków",
+     "k": "LAB",
+     "p": "dr Sylwia Kowalska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2027-01-17"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "spedycja",
+     "k": "LAB",
+     "p": "dr Zuzanna Kłos-Adamkiewicz",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "W",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu lotniczego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Marta Mańkowska",
+     "r": "s. 507 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-18"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "14:30"
+     ],
+     "pl": "zarządzanie usługami transportowo-logistycznymi",
+     "k": "W",
+     "p": "dr hab. Prof. US Anna Tokarz-Kocik",
+     "r": "s. 507 Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Creativity in business",
+     "k": "K",
+     "p": "dr Artur Łabuz",
+     "r": "s. 104 Cuk.8",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "logistyka zwrotna",
+     "k": "W",
+     "p": "dr hab. Prof. US Blanka Tundys",
+     "r": "s. SIL 134/136 lab Cuk.8",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "spedycja",
+     "k": "W",
+     "p": "dr Elżbieta Szaruga",
+     "r": "MS Teams",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "techniczno-ekonomiczne aspekty transportu morskiego",
+     "k": "CW",
+     "p": "dr hab. Prof. US Michał Pluciński",
+     "r": "s. 307 Cuk.8",
+     "dates": [
+      "2026-10-04"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [],
+  "zmiany": {
+   "C31": []
+  },
+  "updatedAt": "2026-11-09T18:06:00.668Z"
+ }
+}

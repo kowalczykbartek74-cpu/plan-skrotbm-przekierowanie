@@ -1,0 +1,567 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-13-X-2026.xlsx",
+ "wersja": "2026-10-13",
+ "sha256": "44004842063fe83b7255d03daa37fe48f5e3608a49f846e40244c8c89ddc1263",
+ "kierunek": "Italianistyka",
+ "kierunekEn": "Italian Studies",
+ "id": "wh-ita-1-st-2025",
+ "kod": "ita25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T20:26:14.809Z",
+ "groups": {
+  "ITA2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "piosenka autorska we Włoszech w latach 1958-1998 WT",
+     "k": "W",
+     "p": "dr D. Del Mastro",
+     "r": "s. 304"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "hermeneutyka literacka XIII-XVIII w. I WT",
+     "k": "W",
+     "p": "prof. US M. Balducci",
+     "r": "s. 301"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW zintegrowane sprawności językowe WT",
+     "k": "LAB",
+     "p": "mgr P. Przydatek",
+     "r": "s. 301"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "język rosyjski, 30lk, język francuski, 30lk",
+     "k": "X",
+     "p": "mgr L. Smędzik, mgr E Frajtak",
+     "r": "s.214 WH, s. 13 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "historia Włoch: X-XIII WT",
+     "k": "W",
+     "p": "prof. US A. Balducci",
+     "r": "s. 302"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia filozofii włoskiej: od neoplatonizmu renesansowego do narodzin nowożytnej nauki WT",
+     "k": "W",
+     "p": "dr D. Del Mastro",
+     "r": "s. 302"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJW pisanie i tłumaczenie WT",
+     "k": "LAB",
+     "p": "dr A. Sollano",
+     "r": "s. 201"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW gramatyka praktyczna WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Heszke",
+     "r": "s. 303"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gramatyka opisowa języka włoskiego WT",
+     "k": "CW",
+     "p": "dr E. Bocian",
+     "r": "s. 301"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury włoskiej: Renesans WT",
+     "k": "W",
+     "p": "dr hab. A. Rella, prof. US",
+     "r": "s. 302"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW konwersacje WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Henszke",
+     "r": "s. 401"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "jezyk angielski ITA+ 30lk, WT od 8:00) język hiszpański, SM+ITA+FG 30lk, ACKJ od 8:00)",
+     "k": "X",
+     "p": "mgr J. Stankiewicz-Rycielska, mgr Agnieszka Jakóbiak",
+     "r": "s.203, s.108"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "16:15"
+     ],
+     "pl": "wychowanie fizyczne Uwaga wyjątkowo 12:00 – 13:30 odbędzie się szkolenie z obrony cywilnej miejsce",
+     "k": "X",
+     "r": "Aula Krakowska WNS)",
+     "dates": [
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ogólnouczelniany",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "piosenka autorska we Włoszech w latach 1958-1998 WT",
+     "k": "W",
+     "p": "dr D. Del Mastro",
+     "r": "s. 304"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "hermeneutyka literacka XIII-XVIII w. I WT",
+     "k": "W",
+     "p": "prof. US M. Balducci",
+     "r": "s. 301"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW zintegrowane sprawności językowe WT",
+     "k": "LAB",
+     "p": "mgr P. Przydatek",
+     "r": "s. 301"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:30",
+      "17:00"
+     ],
+     "pl": "język rosyjski, 30lk, język francuski, 30lk",
+     "k": "X",
+     "p": "mgr L. Smędzik, mgr E Frajtak",
+     "r": "s.214 WH, s. 13 WH"
+    },
+    {
+     "d": 1,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "historia Włoch: X-XIII WT",
+     "k": "W",
+     "p": "prof. US A. Balducci",
+     "r": "s. 302"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "historia filozofii włoskiej: od neoplatonizmu renesansowego do narodzin nowożytnej nauki WT",
+     "k": "W",
+     "p": "dr D. Del Mastro",
+     "r": "s. 302"
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJW pisanie i tłumaczenie WT",
+     "k": "LAB",
+     "p": "dr A. Sollano",
+     "r": "s. 201"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW gramatyka praktyczna WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Heszke",
+     "r": "s. 303"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "gramatyka opisowa języka włoskiego WT",
+     "k": "CW",
+     "p": "dr E. Bocian",
+     "r": "s. 301"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "historia literatury włoskiej: Renesans WT",
+     "k": "W",
+     "p": "dr hab. A. Rella, prof. US",
+     "r": "s. 302"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJW konwersacje WT",
+     "k": "LAB",
+     "p": "dr M. Lange-Henszke",
+     "r": "s. 401"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "jezyk angielski ITA+ 30lk, WT od 8:00) język hiszpański, SM+ITA+FG 30lk, ACKJ od 8:00)",
+     "k": "X",
+     "p": "mgr J. Stankiewicz-Rycielska, mgr Agnieszka Jakóbiak",
+     "r": "s.203, s.108"
+    },
+    {
+     "d": 3,
+     "time": [
+      "11:45",
+      "16:15"
+     ],
+     "pl": "wychowanie fizyczne Uwaga wyjątkowo 12:00 – 13:30 odbędzie się szkolenie z obrony cywilnej miejsce",
+     "k": "X",
+     "r": "Aula Krakowska WNS)",
+     "dates": [
+      "2026-11-12"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ogólnouczelniany",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-edyta-bocian-przelozenie-zajec/",
+    "title": "dr Edyta Bocian- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-29",
+    "text": "Dzień dobry, informujemy, że pracownik Edyta Bocian zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Językoznawstwa Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-04 10:00 – – – ITA-SI.25-21 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 2 gramatyka opisowa języka włoskiego ćwiczenia – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Uprzejmie informujemy, że zajęcia z gramatyki opisowej prowadzone przez dr Edytę Bocian dla studentów II roku studiów licencjackich na kierunku italianistyka nie odbędą się z powodu wyjazdu służbowego prowadzącej. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-11-04 11:45 – – – ITA-SI.26-1-L.1,ITA-SI.26-1-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 1 praktyczna nauka języka włoskiego: konwersacje laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Uprzejmie informujemy, że zajęcia z gramatyki opisowej prowadzone przez dr Edytę Bocian dla studentów II roku studiów licencjackich na kierunku italianistyka nie odbędą się z powodu wyjazdu służbowego prowadzącej. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-11-04 13:30 – – – ITA-SI.26-1-L.1,ITA-SI.26-1-L.2 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo italianistyka stacjonarne pierwszego stopnia 1 praktyczna nauka języka włoskiego: konwersacje laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Uprzejmie informujemy, że zajęcia z gramatyki opisowej prowadzone przez dr Edytę Bocian dla studentów II roku studiów licencjackich na kierunku italianistyka nie odbędą się z powodu wyjazdu służbowego prowadzącej."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/prof-marino-balducci-zmiana-terminow-zajec/",
+    "title": "prof Marino Balducci- zmiana terminów zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "prof Marino Balducci- zmiana terminów zajęć — Lp. Kierunek Poziom (I / II) Forma studiów (stacj./niestacj.) Direction Level (I / II) Form of studies (stationary /Nonstationary) Rok Semestr Grupa Year Semester group Nazwa przedmiotu Name of the course Forma zajęć Form of classes WEDŁUG PLANU ZAJĘĆ ACCORDING TO THE CLASS PLAN PO ZMIANIE AFTER CHANGE Termin zajęć data / dzień tygodnia Term of classes date / day of the week godzina i nr Sali Time and room number Termin zajęć data / dzień tygodnia Term of classes date / day of the week godzina i nr Sali Time and room number 1. Stat. I 2026 / Fall Semester Literary Hermeneutics (XIII-XVIII c.) II Year Lecture November 9 December 14, 21 2026 Monday 11.45 – 13.15 Room 301 WT October 13,20 November 24, 2026 Tuesday 15.15 – 16.45 Room WT 2. Stat. I 2026 / Fall Semester Italian History (X-XII c.) II Year Lecture November 3, 10 December 15, 22 2026 Tuesday 8.15 – 9.45 Room 302 WT October 14,21 November 25 December 2 2026 Wednesday 8.15 – 9.45 Room WT 3. Stat. I 2026 / Fall Semester Italian History (XVII-XVIII c.) III Year Lecture November 9 December 14, 21 2026 Monday 8.15 – 9.45 Room 301 WT October 21 Wednesday December 1, December 8, 2026 Tuesday 13.30 – 15.00 Room WT 15.15 – 16.45 Room WT 8.15 – 9.45 Room WT 4. Stat. I 2026 / Fall Semester Dante’s Divine Comedy III Year Lecture November 3, 10, December 15, 22 2026 Tuesday 11.45 – 13.15 Room 301 WT October 14 November 25 December 2 Wednesday December 8 2026 Tuesday 13.30 – 15.00 Room WT 15.15 – 16.45 Room WT 5. Stat. II 2026 / Fall Semester Stylistics and Critical Writing (Manzoni’s Promessi Sposi ) Seminar November 3, 10 December 15, 22 2026 Tuesday 10.00 – 11.30 Room 306 WT October 12,19 November 23,30, 2026 Monday 10.00 – 11.30 Room WT WEDŁUG HARMONOGRAMU ACCORDING TO THE SCHEDULE PO ZMIANIE AFTER CHANGE Termin konsultacji – data Consultation date – date godzina i nr sali Time and room number Termin konsultacji – data Consultation date – date godzina i nr sali Time and room number November 9, December 14, 21 2026 Monday 13.30 – 15.00 Room 104 WT October 13, 20 December 1 Tuesday 13.30 – 15.00 Room 104 WT"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-frithjof-strauss-zastepstwo-dla-lektoratu-dla-kierunkow-itaarchhistsmdiksfilo/",
+    "title": "dr Frithjof Strauss- zastępstwo dla lektoratu dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Szanowni Państwo, w dniu 05.10.2026 lektorat dla kierunków: ITA+ARCH+HIST+SM+DiKS+FILO (godz. 15.15-16.45, s. 115, bud. 4) poprowadzi w zastępstwie za dr. Frithjofa Straussa dr Karolina Matuszewska."
+   }
+  ],
+  "zmiany": {
+   "ITA2": [
+    {
+     "type": "note",
+     "date": "2026-10-05",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-03",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-04",
+     "start": "10:00",
+     "pl": "gramatyka opisowa języka włoskiego WT",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-09",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-01",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-08",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-14",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-15",
+     "post": 1,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.588Z"
+ }
+}

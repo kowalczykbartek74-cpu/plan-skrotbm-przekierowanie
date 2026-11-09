@@ -1,0 +1,750 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+ "wersja": "2026-10-15",
+ "sha256": "d8af5b209eb522cbd93b0fdfff9c93a5f3f480beacacb0927854347a2f922710",
+ "kierunek": "Filologia romańska z językiem obcym do wyboru",
+ "kierunekEn": "Romance Philology with a Foreign Language of Choice",
+ "id": "wh-frzjo-1-st-2025",
+ "kod": "frzjo25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T20:26:14.809Z",
+ "groups": {
+  "FRZJO2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJF -pisanie/lektura",
+     "k": "LAB",
+     "p": "mgr M. Janusz",
+     "r": "s. 15, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Analiza tekstów literackich",
+     "k": "K",
+     "p": "dr hab. M. Bajer, prof. US",
+     "r": "s. 17-19, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJF ZSJ",
+     "k": "LAB",
+     "p": "mgr M. Karcz-Napieraj",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Historia literatury francuskiej",
+     "k": "W",
+     "p": "dr hab. M. Bajer, prof.US",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "psychologia ogólna",
+     "k": "W",
+     "p": "dr E. Pieńkowska",
+     "r": "s. 310, WH bud. 4",
+     "n": "łączone z FA+FG+FP+HIST+GPWSN,",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
+     "k": "CW",
+     "p": "dr A. Kamińska",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "PNJF – konwersacje i słuchanie, (24.11 )",
+     "k": "LAB",
+     "p": "mgr M. Karcz-Napieraj",
+     "r": "s. 118, WH bud.4",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Historia języka francuskiego",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 120, WH bud.4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "emisja głosu, 20ćw",
+     "k": "CW",
+     "p": "prof. dr hab. L. Mariak",
+     "r": "s. 220   WH bud. 4",
+     "n": "łaczone z FG+WNSiP,",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe, j. hiszpański, +FroszDJo+FGzdjo, j. włoski od 16:15 do 20:15 Frzjodw+Fgdjo",
+     "k": "LAB",
+     "p": "mgr A. Skalska Frzjodw, mgr I. Płatek",
+     "r": "s. 214, WH bud.4, s. 118, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "pl": "Pedagogika ogólna, 15ćw grupa łączona z FA, r.)",
+     "k": "CW",
+     "p": "dr E. Kopaczewska",
+     "r": "s. 310, WH bud. 4",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "psychologia ogólna, 15ćw grupa łączona z FA, r.)",
+     "k": "CW",
+     "p": "mgr M. Chmiel",
+     "r": "s. 319, WH bud. 4",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pedagogika ogólna, wspólny HIST +",
+     "k": "W",
+     "p": "dr E. Kopaczewska",
+     "r": "s. 310, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Najnowsze tendencje przekładoznawcze",
+     "k": "W",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 118, WH bud.4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "PNJF gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr B. Skuza",
+     "r": "s. 201, WH bud.4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ogólnouczelniany /online",
+     "k": "W"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "PNJF -pisanie/lektura",
+     "k": "LAB",
+     "p": "mgr M. Janusz",
+     "r": "s. 15, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Analiza tekstów literackich",
+     "k": "K",
+     "p": "dr hab. M. Bajer, prof. US",
+     "r": "s. 17-19, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJF ZSJ",
+     "k": "LAB",
+     "p": "mgr M. Karcz-Napieraj",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Historia literatury francuskiej",
+     "k": "W",
+     "p": "dr hab. M. Bajer, prof.US",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "psychologia ogólna",
+     "k": "W",
+     "p": "dr E. Pieńkowska",
+     "r": "s. 310, WH bud. 4",
+     "n": "łączone z FA+FG+FP+HIST+GPWSN,",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
+     "k": "CW",
+     "p": "dr A. Kamińska",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "PNJF – konwersacje i słuchanie, (24.11 )",
+     "k": "LAB",
+     "p": "mgr M. Karcz-Napieraj",
+     "r": "s. 118, WH bud.4",
+     "dates": [
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Historia języka francuskiego",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 120, WH bud.4"
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "emisja głosu, 20ćw",
+     "k": "CW",
+     "p": "prof. dr hab. L. Mariak",
+     "r": "s. 220   WH bud. 4",
+     "n": "łaczone z FG+WNSiP,",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "19:30"
+     ],
+     "pl": "praktyczna nauka języka-zintegrowane sprawności językowe, j. hiszpański, +FroszDJo+FGzdjo, j. włoski od 16:15 do 20:15 Frzjodw+Fgdjo",
+     "k": "LAB",
+     "p": "mgr A. Skalska Frzjodw, mgr I. Płatek",
+     "r": "s. 214, WH bud.4, s. 118, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "08:15",
+      "09:00"
+     ],
+     "pl": "Pedagogika ogólna, 15ćw grupa łączona z FA, r.)",
+     "k": "CW",
+     "p": "dr E. Kopaczewska",
+     "r": "s. 310, WH bud. 4",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "psychologia ogólna, 15ćw grupa łączona z FA, r.)",
+     "k": "CW",
+     "p": "mgr M. Chmiel",
+     "r": "s. 319, WH bud. 4",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "pedagogika ogólna, wspólny HIST +",
+     "k": "W",
+     "p": "dr E. Kopaczewska",
+     "r": "s. 310, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:00",
+      "09:30"
+     ],
+     "pl": "Najnowsze tendencje przekładoznawcze",
+     "k": "W",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 118, WH bud.4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "09:45",
+      "11:15"
+     ],
+     "pl": "PNJF gramatyka praktyczna",
+     "k": "LAB",
+     "p": "mgr B. Skuza",
+     "r": "s. 201, WH bud.4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "ogólnouczelniany /online",
+     "k": "W"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-aleksandra-kaminska-odwolanie-zajec/",
+    "title": "dr Aleksandra Kamińska- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-26",
+    "text": "Dzień dobry, informujemy, że pracownik Aleksandra Kamińska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-12 17:00 – – – FRJO-SI.25-2-US-TzJF.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska z językiem obcym do wyboru stacjonarne pierwszego stopnia 2 tłumaczenia pisemne (francusko-polskie, polsko-francuskie) ćwiczenia – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-10-20 15:15 – – – FROM-SII.26-11 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 1 pisanie/lektura – język francuski laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-10-21 15:15 – – – FROM-SII.25-2-US-RKSZTR.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 przekład specjalistyczny wykład – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 4 2026-10-21 17:00 – – – FROM-SII.25-2-US-RKSZTR.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 laboratoria tłumaczeniowe laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/monika-karcz-napieraj-odwolanie-zajec-2/",
+    "title": "Monika Karcz-Napieraj – odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Dzień dobry, informujemy, że pracownik Monika Karcz-Napieraj zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-19 13:30 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska z językiem obcym do wyboru stacjonarne pierwszego stopnia 2 praktyczna nauka języka francuskiego – zintegrowane sprawności językowe laboratorium – Przyczyna nieobecności inne Uzasadnienie Wizyta lekarska Proponowana treść ogłoszenia dla studentów: W dniu dzisiejszym zajęcia ZSJ dla II roku są odwołane."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/prof-marino-balducci-zmiana-terminow-zajec/",
+    "title": "prof Marino Balducci- zmiana terminów zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "prof Marino Balducci- zmiana terminów zajęć — Lp. Kierunek Poziom (I / II) Forma studiów (stacj./niestacj.) Direction Level (I / II) Form of studies (stationary /Nonstationary) Rok Semestr Grupa Year Semester group Nazwa przedmiotu Name of the course Forma zajęć Form of classes WEDŁUG PLANU ZAJĘĆ ACCORDING TO THE CLASS PLAN PO ZMIANIE AFTER CHANGE Termin zajęć data / dzień tygodnia Term of classes date / day of the week godzina i nr Sali Time and room number Termin zajęć data / dzień tygodnia Term of classes date / day of the week godzina i nr Sali Time and room number 1. Stat. I 2026 / Fall Semester Literary Hermeneutics (XIII-XVIII c.) II Year Lecture November 9 December 14, 21 2026 Monday 11.45 – 13.15 Room 301 WT October 13,20 November 24, 2026 Tuesday 15.15 – 16.45 Room WT 2. Stat. I 2026 / Fall Semester Italian History (X-XII c.) II Year Lecture November 3, 10 December 15, 22 2026 Tuesday 8.15 – 9.45 Room 302 WT October 14,21 November 25 December 2 2026 Wednesday 8.15 – 9.45 Room WT 3. Stat. I 2026 / Fall Semester Italian History (XVII-XVIII c.) III Year Lecture November 9 December 14, 21 2026 Monday 8.15 – 9.45 Room 301 WT October 21 Wednesday December 1, December 8, 2026 Tuesday 13.30 – 15.00 Room WT 15.15 – 16.45 Room WT 8.15 – 9.45 Room WT 4. Stat. I 2026 / Fall Semester Dante’s Divine Comedy III Year Lecture November 3, 10, December 15, 22 2026 Tuesday 11.45 – 13.15 Room 301 WT October 14 November 25 December 2 Wednesday December 8 2026 Tuesday 13.30 – 15.00 Room WT 15.15 – 16.45 Room WT 5. Stat. II 2026 / Fall Semester Stylistics and Critical Writing (Manzoni’s Promessi Sposi ) Seminar November 3, 10 December 15, 22 2026 Tuesday 10.00 – 11.30 Room 306 WT October 12,19 November 23,30, 2026 Monday 10.00 – 11.30 Room WT WEDŁUG HARMONOGRAMU ACCORDING TO THE SCHEDULE PO ZMIANIE AFTER CHANGE Termin konsultacji – data Consultation date – date godzina i nr sali Time and room number Termin konsultacji – data Consultation date – date godzina i nr sali Time and room number November 9, December 14, 21 2026 Monday 13.30 – 15.00 Room 104 WT October 13, 20 December 1 Tuesday 13.30 – 15.00 Room 104 WT"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-maria-janusz-odwolanie-zajec-3/",
+    "title": "mgr Maria Janusz – odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "odwołanie zajęć mgr Maria Janusz: 12.10.26 r. – PNJF-pisanie/lektura – 2 rok filologia romańska z językiem obcym do wyboru I st. 12.10.26 r. – PNJF – pisanie/lektura-język francuski – 2 rok filologia romańska II st. 13.10.26 r. – PNJF – ćwiczenia leksykalne – 1 rok filologia romańska z językiem obcym do wyboru I st. 16.10.26 r. – PNJF pisanie – 3 rok filologia romańska z językiem obcym do wyboru I st."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-maria-janusz-odwolanie-zajec-2/",
+    "title": "mgr Maria Janusz – odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "W dniu dzisiejszym 6.10.2026 r. zostają odwołane zajęcia prowadzone przez panią mgr Janusz z 1 rokiem filologii romańskiej z językiem obcym do wyboru, tj.: PNJF-ćwiczenia leksykalne o 13:30 z grupą 1 oraz o 15:15 z grupą 2. Informacja o odrobieniu zajęć zostanie podana w późniejszym terminie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-swietlana-niewzorowa-przelozenie-zajec/",
+    "title": "dr hab. Swietłana Niewzorowa- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "dr hab. Swietłana Niewzorowa: 2 rok filologia romańska z językiem obcym do wyboru: 6.10.26 r. – historia języka francuskiego – wykład 11:45-13:15 3 rok filologia romańska z językiem obcym do wyboru: 6.10.26 r. – językoznawstwo 2 – wykład i ćwiczenia 8:15-11:30 Termin realizacji zajęć zostanie podany w późniejszym terminie."
+   }
+  ],
+  "zmiany": {
+   "FRZJO2": [
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 5,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 3,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-12",
+     "start": "17:00",
+     "pl": "tłumaczenia pismne (francusko-polskie, polsko-francuskie)",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 3,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "13:30",
+     "pl": "PNJF ZSJ",
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2026-11-03",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-01",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-08",
+     "post": 2,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.330Z"
+ }
+}

@@ -1,0 +1,1235 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-03-XI-2026.xlsx",
+ "wersja": "2026-11-03",
+ "sha256": "b8041b045edaaa657ffdca7b1caf8cdbbf96aa62f615c68928f00c03836e74f6",
+ "kierunek": "Filologia angielska",
+ "kierunekEn": "English Philology",
+ "id": "wh-fa-2-st-2026",
+ "kod": "fam26",
+ "wydzial": "WH",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T20:26:14.809Z",
+ "groups": {
+  "FA1": {
+   "odd": [
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr Ewa Glapka",
+     "r": "s. 113 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Sztuka prezentacji",
+     "k": "LAB",
+     "p": "mgr Irina Sklema",
+     "r": "s. 218 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr hab.Sylwester Jaworski, prof. US",
+     "r": "s. 310 WH",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Sztuka prezentacji",
+     "k": "LAB",
+     "p": "mgr Irina Sklema",
+     "r": "s. 218 WH",
+     "pg": "lab:3",
+     "dates": [
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr J. Woroniec",
+     "r": "s. 218",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "dr Michał Baran",
+     "r": "s. 213 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "dr Michał Baran",
+     "r": "s. 213 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s. 218 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "PNJA: Podst. języka biznesu",
+     "k": "LAB",
+     "p": "dr Witold Konopka",
+     "r": "s. 201 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s. 218 WH",
+     "pg": "lab:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 114",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: Sztuka prezentacji",
+     "k": "LAB",
+     "p": "mgr Irina Sklema",
+     "r": "s. 217 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr hab. Łukasz Neubauer",
+     "r": "s. 218 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "PNJA: Podst. jęz. biznesu",
+     "k": "LAB",
+     "p": "dr Antoni Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: pisanie akademickie",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 213 WH",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s.216 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "PNJA: Podst. jęz. biznesu termin odrabiania za 2.10 zostanoe ustalony z prowadzącyn",
+     "k": "LAB",
+     "p": "dr Antoni Górny",
+     "r": "s. 213 WH",
+     "n": "odrabianie",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "PNJA: zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s. 216 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: pisanie akademickie",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 215 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: pisanie akademickie",
+     "k": "LAB",
+     "p": "mgr Beccia Borton",
+     "r": "s. 215 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr Ewa Glapka",
+     "r": "s. 113 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Seminarium magisterskie",
+     "k": "S",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: Sztuka prezentacji",
+     "k": "LAB",
+     "p": "mgr Irina Sklema",
+     "r": "s. 218 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr hab.Sylwester Jaworski, prof. US",
+     "r": "s. 310 WH",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "PNJA: Sztuka prezentacji",
+     "k": "LAB",
+     "p": "mgr Irina Sklema",
+     "r": "s. 218 WH",
+     "pg": "lab:3",
+     "dates": [
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr J. Woroniec",
+     "r": "s. 218",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "dr Michał Baran",
+     "r": "s. 213 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Metodologia badań językoznawczych",
+     "k": "CW",
+     "p": "dr Michał Baran",
+     "r": "s. 213 WH",
+     "pg": "ćw:1"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Metodologia badań literaturoznawczych",
+     "k": "CW",
+     "p": "dr Barbara Braid",
+     "r": "s. 201 WH",
+     "pg": "ćw:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s. 218 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "PNJA: Podst. języka biznesu",
+     "k": "LAB",
+     "p": "dr Witold Konopka",
+     "r": "s. 201 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "PNJA: ZSJ",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s. 218 WH",
+     "pg": "lab:1"
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr M. Dziurzyńska",
+     "r": "s. 114",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: Sztuka prezentacji",
+     "k": "LAB",
+     "p": "mgr Irina Sklema",
+     "r": "s. 217 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr hab. Łukasz Neubauer",
+     "r": "s. 218 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "PNJA: Podst. jęz. biznesu",
+     "k": "LAB",
+     "p": "dr Antoni Górny",
+     "r": "s. 213 WH",
+     "pg": "lab:1"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: pisanie akademickie",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 213 WH",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "PNJA: zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s.216 WH",
+     "pg": "lab:2"
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "PNJA: Podst. jęz. biznesu termin odrabiania za 2.10 zostanoe ustalony z prowadzącyn",
+     "k": "LAB",
+     "p": "dr Antoni Górny",
+     "r": "s. 213 WH",
+     "n": "odrabianie",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "pl": "PNJA: zaawansowane sprawności językowe",
+     "k": "LAB",
+     "p": "dr Patrycja Kamińska, prof. US",
+     "r": "s. 216 WH",
+     "pg": "lab:3"
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "PNJA: pisanie akademickie",
+     "k": "LAB",
+     "p": "mgr Becca Borton",
+     "r": "s. 215 WH",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "PNJA: pisanie akademickie",
+     "k": "LAB",
+     "p": "mgr Beccia Borton",
+     "r": "s. 215 WH",
+     "pg": "lab:2",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-witold-konopka-przelozenie-zajec/",
+    "title": "dr Witold Konopka- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-28",
+    "text": "Dzień dobry, informujemy, że pracownik Witold Konopka zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Wydział Humanistyczny Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań: Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-28 17:00 – – – FANG-SII.26-1-L.3 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 1 praktyczna nauka języka angielskiego – podstawy języka biznesu laboratorium – Przyczyna nieobecności inne Uzasadnienie pogrzeb babci Proponowana treść ogłoszenia dla studentów: Zajęcia z podstaw języka biznesu 28.10.2026 r. zostają odwołane. Zajęcia zostaną odrobione w ustalonym ze studentami terminie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-lukasz-neubauer-odwolanie-zajec-3/",
+    "title": "dr hab. Łukasz Neubauer- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "Dzień dobry, informujemy, że pracownik Łukasz Neubauer zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-22 15:15 2026-12-10 11:30 218 FANG-SII.26-1-SEM5.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia angielska stacjonarne drugiego stopnia 1 seminarium magisterskie seminarium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: W dniu jutrzejszym zajęcia nie odbędą się z powodu mojego wyjazdu do Krakowa na konferencję naukową. Zajęcia zostaną odrobione w późniejszym terminie. Z powstałe niedogodnoci przepraszam."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-becca-borton-odwolanie-zajec-2/",
+    "title": "mgr Becca Borton- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-13",
+    "text": "Szanowni Studenci filologii angielskiej I rok I stopnia, Informujemy, iż zajęcia z mgr Beccą Borton w dniu14.10.2026r. nie odbędą się. Pierwsze zajęcia z przedmiotu PNJA: konwersacje odbędą się w dniu 21.10.2026r. Termin odrobienia zajęć zostanie ustalony z Państwem na zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-becca-borton-odwolanie-zajec/",
+    "title": "mgr Becca Borton- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Szanowni Studenci filologii angielskiej I rok II stopnia, Informujemy, iż zajęcia z mgr Becca Borton w dniu dzisiejszym nie odbędą się. Pierwsze zajęcia z przedmiotu PNJA: pisanie akademickie odbędą się w dniu 16.10.2026r. Termin odrobienia zajęć zostanie ustalony z Państwem na zajęciach."
+   }
+  ],
+  "zmiany": {
+   "FA1": [
+    {
+     "type": "note",
+     "date": "2026-10-16",
+     "post": 3,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-22",
+     "start": "15:15",
+     "pl": "Seminarium mgr",
+     "moved": true,
+     "post": 1,
+     "posts": [
+      1
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-28",
+     "start": "17:00",
+     "pl": "PNJA: Podst. języka biznesu",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-12-10",
+     "start": "11:30",
+     "end": "13:00",
+     "pl": "Seminarium mgr",
+     "k": "S",
+     "p": "dr hab. Łukasz Neubauer",
+     "r": "s. 218",
+     "post": 1
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:27.753Z"
+ }
+}

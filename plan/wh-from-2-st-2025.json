@@ -1,0 +1,892 @@
+{
+ "source": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.15-X-2026.xlsx",
+ "wersja": "2026-10-15",
+ "sha256": "d8af5b209eb522cbd93b0fdfff9c93a5f3f480beacacb0927854347a2f922710",
+ "kierunek": "Filologia romańska",
+ "kierunekEn": "Romance Philology",
+ "id": "wh-from-2-st-2025",
+ "kod": "fromm25",
+ "wydzial": "WH",
+ "rok": 2,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-08T21:41:31.877Z",
+ "checkedAt": "2026-11-09T20:26:14.809Z",
+ "groups": {
+  "FROM2": {
+   "odd": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "pisanie/lektura-język francuski",
+     "k": "LAB",
+     "p": "mgr M. Janusz",
+     "r": "s. 15, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud.4, s. 118, WH bud.4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud. 4, s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Interdyscyplinarne badania literatury francuskiej",
+     "k": "W",
+     "p": "dr hab. M. Bajer, prof. US",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "W",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
+     "k": "LAB",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
+     "k": "X",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "przekład specjalistyczny",
+     "k": "W",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "laboratorium tłumaczeniowe",
+     "k": "LAB",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "najnowsze tendencje językoznawcze i 2x2h z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 16, WH bud. 4",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Emisja głosu, 10 ćw, +FA bud",
+     "k": "X",
+     "p": "dr M. Kabata From",
+     "r": "s. 215",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 114, WH bud. 4",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie i 2x2h z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 103, WH bud. 4",
+     "dates": [
+      "2026-11-06",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "najnowsze tendencje językoznawcze z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "pisanie/lektura-język francuski",
+     "k": "LAB",
+     "p": "mgr M. Janusz",
+     "r": "s. 15, WH bud. 4"
+    },
+    {
+     "d": 0,
+     "time": [
+      "10:45",
+      "11:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – konwersacje i słuchanie-język francuski od 10:00 do 10:45",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud.4, s. 118, WH bud.4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "11:45",
+      "12:30"
+     ],
+     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "k": "LAB",
+     "p": "mgr B. Skuza, mgr M. Karcz-Napieraj",
+     "r": "s. 120, WH bud. 4, s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "Interdyscyplinarne badania literatury francuskiej",
+     "k": "W",
+     "p": "dr hab. M. Bajer, prof. US",
+     "r": "s. 120, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej",
+     "k": "W",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 18 z 48ćw",
+     "k": "LAB",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "dydaktyka przedmiotu w szkole ponadpodstawowej, 30 z 48 ćw",
+     "k": "X",
+     "p": "dr S. Kalińska",
+     "r": "s. 214, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "pl": "przekład specjalistyczny",
+     "k": "W",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 2,
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "pl": "laboratorium tłumaczeniowe",
+     "k": "LAB",
+     "p": "dr A. Kamińska",
+     "r": "s. 118, WH bud. 4"
+    },
+    {
+     "d": 3,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "najnowsze tendencje językoznawcze i 2x2h z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 16, WH bud. 4",
+     "dates": [
+      "2026-10-15",
+      "2026-10-22"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Emisja głosu, 10 ćw, +FA bud",
+     "k": "X",
+     "p": "dr M. Kabata From",
+     "r": "s. 215",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 114, WH bud. 4",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-12",
+      "2026-11-26",
+      "2026-12-10",
+      "2027-01-07",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "time": [
+      "17:45",
+      "19:15"
+     ],
+     "pl": "dziedzinowy z nauk społecznych online",
+     "k": "W"
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie i 2x2h z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "prof. dr hab. B. Kędzia-Klebeko",
+     "r": "s. 103, WH bud. 4",
+     "dates": [
+      "2026-11-06",
+      "2026-11-20",
+      "2026-12-04",
+      "2026-12-18",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "seminarium magisterskie z",
+     "k": "S",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 103 WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "najnowsze tendencje językoznawcze z",
+     "k": "W",
+     "p": "dr hab. S. Niewzorowa",
+     "r": "s. 118, WH bud. 4",
+     "dates": [
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22",
+      "2027-01-29"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/piastow/zajecia-piastow/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-aleksandra-kaminska-odwolanie-zajec/",
+    "title": "dr Aleksandra Kamińska- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-26",
+    "text": "Dzień dobry, informujemy, że pracownik Aleksandra Kamińska zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-12 17:00 – – – FRJO-SI.25-2-US-TzJF.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska z językiem obcym do wyboru stacjonarne pierwszego stopnia 2 tłumaczenia pisemne (francusko-polskie, polsko-francuskie) ćwiczenia – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-10-20 15:15 – – – FROM-SII.26-11 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 1 pisanie/lektura – język francuski laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 3 2026-10-21 15:15 – – – FROM-SII.25-2-US-RKSZTR.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 przekład specjalistyczny wykład – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 4 2026-10-21 17:00 – – – FROM-SII.25-2-US-RKSZTR.1 Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami i przekazany do sekcji ds. kształcenia w ciągu tygodnia od ustania przyczyny nieobecności w pracy Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 laboratoria tłumaczeniowe laboratorium – Przyczyna nieobecności konferencja Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, z powodu udziału w konferencji zajęcia zostały odwołane. Termin odrabiania ustalimy na kolejnych zajęciach."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/prof-dr-hab-beata-kedzia-klebeko-odwolanie-zajec-13/",
+    "title": "prof. dr hab. Beata Kędzia-Klebeko- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-21",
+    "text": "Dzień dobry, informujemy, że pracownik Beata Kędzia-Klebeko zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2027-01-21 15:00 2027-01-08 13:30 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie przeniesienie 1 godz. ( z zaplanowanych trzech) seminarium na inny termin Proponowana treść ogłoszenia dla studentów: zaplanowana w dniu 21.01 trzecia godz. seminarium (15.00-15.45) zostaje przeniesiona na piątek 8.01 w godz. 13.30-14.15 Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2027-01-28 14:15 2026-10-30 13:30 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie przeniesienie 2 godz. seminarium ( z zaplanowanych trzech) na inny termin Proponowana treść ogłoszenia dla studentów: zaplanowane w dniu 28.01 druga i trzecia godz. seminarium (14.15-15.45) zostaje przeniesiona na piątek 30.10 w godz. 13.30-15.00"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/prof-dr-hab-beata-kedzia-klebeko-odwolanie-zajec-12/",
+    "title": "prof. dr hab. Beata Kędzia-Klebeko- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-21",
+    "text": "Dzień dobry, informujemy, że pracownik Beata Kędzia-Klebeko zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2027-01-21 15:00 2027-01-08 13:30 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie przeniesienie 1 godz. ( z zaplanowanych trzech) seminarium na inny termin Proponowana treść ogłoszenia dla studentów: zaplanowana w dniu 21.01 trzecia godz. seminarium (15.00-15.45) zostaje przeniesiona na piątek 8.01 w godz. 13.30-14.15 Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2027-01-28 14:15 2026-10-30 13:30 103 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie przeniesienie 2 godz. seminarium ( z zaplanowanych trzech) na inny termin Proponowana treść ogłoszenia dla studentów: zaplanowane w dniu 28.01 druga i trzecia godz. seminarium (14.15-15.45) zostaje przeniesiona na piątek 30.10 w godz. 13.30-15.00"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-monika-karcz-napieraj-odwolanie-zajec-18/",
+    "title": "mgr Monika Karcz-Napieraj- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Dzień dobry, informujemy, że pracownik Monika Karcz-Napieraj zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-19 10:00 2026-10-26 10:00 118 – Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 konwersacje i słuchanie – język francuski laboratorium – Przyczyna nieobecności inne Uzasadnienie Wizyta lekarska Proponowana treść ogłoszenia dla studentów: Zajęcia w dniu dzisiejszym odwołane. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-10-19 11:45 – – – – Proponowane zastępstwo Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 zintegrowane sprawności językowe – język francuski laboratorium mgr Beata Skuza Przyczyna nieobecności inne Uzasadnienie Wizyta lekarska Proponowana treść ogłoszenia dla studentów: Zajęcia w dniu dzisiejszym odwołane."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/informacja-dla-studentow-ii-roku-ii-stopnia-filologii-romanskiej/",
+    "title": "Informacja dla studentów II roku II stopnia filologii romańskiej",
+    "ym": "2026-10",
+    "pub": "2026-10-16",
+    "text": "Zajęcia w dniu 19/10 g. 10.00-11.30 mgr Monika Karcz-Napieraj Konwersacje i Słuchanie zgodnie z planem s. 118 g. 11.45-13.15 mgr Beata Skuza Gramatyka za 26/10 s.118 Zajęcia w dniu 26/10 g. 10.00-11.30 mgr Monika Karcz-Napieraj ZSJ za dzień 19/10"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-monika-karcz-napieraj-przelozenie-zajec/",
+    "title": "mgr Monika Karcz-Napieraj- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-15",
+    "text": "Dzień dobry, informujemy, że pracownik Monika Karcz-Napieraj zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-19 10:00 – – – – Proponowane zastępstwo Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 konwersacje i słuchanie – język francuski laboratorium mgr Beata Skuza Przyczyna nieobecności inne Uzasadnienie Jednorazowa zamiana zajęć Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, w dniu 19/10 zajęcia z konwersacji i słuchania są przełożone na dzień 26/10. 19/10 odbywają się zajęcia z gramatyki. Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 2 2026-10-19 11:45 – – – – Proponowane zastępstwo Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 zintegrowane sprawności językowe – język francuski laboratorium mgr Beata Skuza Przyczyna nieobecności inne Uzasadnienie Jednorazowa zamiana zajęć. Proponowana treść ogłoszenia dla studentów: Szanowni Państwo, w dniu 19/10 zajęcia zsj są przełożone na dzień 26/10. 19/10 odbywają się zajęcia z gramatyki."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-maria-janusz-odwolanie-zajec-3/",
+    "title": "mgr Maria Janusz – odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-08",
+    "text": "odwołanie zajęć mgr Maria Janusz: 12.10.26 r. – PNJF-pisanie/lektura – 2 rok filologia romańska z językiem obcym do wyboru I st. 12.10.26 r. – PNJF – pisanie/lektura-język francuski – 2 rok filologia romańska II st. 13.10.26 r. – PNJF – ćwiczenia leksykalne – 1 rok filologia romańska z językiem obcym do wyboru I st. 16.10.26 r. – PNJF pisanie – 3 rok filologia romańska z językiem obcym do wyboru I st."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/mgr-maria-janusz-odwolanie-zajec-2/",
+    "title": "mgr Maria Janusz – odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "W dniu dzisiejszym 6.10.2026 r. zostają odwołane zajęcia prowadzone przez panią mgr Janusz z 1 rokiem filologii romańskiej z językiem obcym do wyboru, tj.: PNJF-ćwiczenia leksykalne o 13:30 z grupą 1 oraz o 15:15 z grupą 2. Informacja o odrobieniu zajęć zostanie podana w późniejszym terminie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/dr-hab-swietlana-niewzorowa-przelozenie-zajec/",
+    "title": "dr hab. Swietłana Niewzorowa- przełożenie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "dr hab. Swietłana Niewzorowa: 2 rok filologia romańska z językiem obcym do wyboru: 6.10.26 r. – historia języka francuskiego – wykład 11:45-13:15 3 rok filologia romańska z językiem obcym do wyboru: 6.10.26 r. – językoznawstwo 2 – wykład i ćwiczenia 8:15-11:30 Termin realizacji zajęć zostanie podany w późniejszym terminie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/piastow/zajecia-piastow/2026/10/prof-dr-hab-beata-kedzia-klebeko-odwolanie-zajec-11/",
+    "title": "prof. dr hab. Beata Kędzia-Klebeko- odwołanie zajęć",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "Dzień dobry, informujemy, że pracownik Beata Kędzia-Klebeko zatwierdził i wysłał formularz dotyczący nieobecności w pracy. Poniżej szczegóły: Jednostka zatrudnienia: Instytut Literatury i Nowych Mediów Sekcja kształcenia wg jednostki zatrudnienia: Sekcja ds. Kształcenia Wydziału Humanistycznego Sekcja kształcenia wg realizacji przedmiotu : Sekcja ds. Kształcenia Wydziału Humanistycznego Typ zgłoszenia: Przełożenie zajęć lub zastępstwo Poniżej szczegóły dotyczące przedmiotów i proponowanych rozwiązań:  Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-10-02 13:45 2026-10-08 13:45 103 FROM-SII.25-2-SEM1.1 Odrobienie zajęć Podaję terminy do odrobienia zajęć Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo filologia romańska stacjonarne drugiego stopnia 2 seminarium magisterskie seminarium – Przyczyna nieobecności inne Uzasadnienie zmiana terminu zajęć w semestrze zimowym 2026/2027 z piątków w godzinach 13:45-15.00 na czwartki w godzinach 13:45 do 15.00 Proponowana treść ogłoszenia dla studentów: Uprzejmie informuję o zmianie terminu zajęć seminaryjnych w semestrze zimowym 2026/2027 z piątków w godzinach 13:45-15.00 na czwartki w godzinach 13:45 do 15.00. Zmiana od 02.10.2026."
+   }
+  ],
+  "zmiany": {
+   "FROM2": [
+    {
+     "type": "note",
+     "date": "2026-10-02",
+     "post": 9
+    },
+    {
+     "type": "note",
+     "date": "2026-10-12",
+     "post": 6,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-19",
+     "post": 3
+    },
+    {
+     "type": "note",
+     "date": "2026-10-19",
+     "post": 5
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-19",
+     "start": "11:45",
+     "pl": "gramatyka praktyczna-język francuski z – ZSJ -język francuski z",
+     "post": 3,
+     "posts": [
+      3,
+      5
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "17:00",
+     "pl": "laboratorium tłumaczeniowe",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "cancel",
+     "date": "2026-10-21",
+     "start": "15:15",
+     "pl": "przekład specjalistyczny",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    },
+    {
+     "type": "note",
+     "date": "2027-01-21",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2027-01-21",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2027-01-28",
+     "post": 1
+    },
+    {
+     "type": "note",
+     "date": "2027-01-28",
+     "post": 2
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:07:28.231Z"
+ }
+}

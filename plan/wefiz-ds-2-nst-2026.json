@@ -1,0 +1,2083 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-4a3a791142a9",
+ "kierunek": "Data Science",
+ "kierunekEn": "Data Science",
+ "id": "wefiz-ds-2-nst-2026",
+ "kod": "dsmn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T20:22:14.856Z",
+ "groups": {
+  "E40": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "W",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-06",
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "W",
+     "p": "dr Janusz Jabłoński",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "W",
+     "p": "dr Janusz Jabłoński",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "matematyka w data science",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "matematyka w data science",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "W",
+     "p": "dr Anna Gdakowicz",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "W",
+     "p": "dr Anna Gdakowicz",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "W",
+     "p": "dr Janusz Jabłoński",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "finanse stosowane",
+     "k": "W",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "W",
+     "p": "dr Anna Gdakowicz",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "matematyka w data science",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "finanse stosowane",
+     "k": "W",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N019 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N101/102 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N019 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "W",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-06",
+      "2026-11-13"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "W",
+     "p": "dr Janusz Jabłoński",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "W",
+     "p": "dr Janusz Jabłoński",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "matematyka w data science",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "matematyka w data science",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "W",
+     "p": "dr Anna Gdakowicz",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "W",
+     "p": "dr Anna Gdakowicz",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "finanse stosowane",
+     "k": "LAB",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S0101 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "17:05"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "LAB",
+     "p": "dr Michał Kuczyński",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "W",
+     "p": "dr Janusz Jabłoński",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "17:15",
+      "18:00"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "finanse stosowane",
+     "k": "W",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "metody statystyczne w data science",
+     "k": "W",
+     "p": "dr Anna Gdakowicz",
+     "r": "s. S019 Mic.64",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "matematyka w data science",
+     "k": "W",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "finanse stosowane",
+     "k": "W",
+     "p": "dr Paweł Witkowski",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N019 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "matematyka w data science",
+     "k": "LAB",
+     "p": "dr hab. prof. US Małgorzata Guzowska",
+     "r": "s. N101/102 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. S0123B Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "współczesna makroekonomia",
+     "k": "CW",
+     "p": "dr Małgorzata Zakrzewska",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "podstawy programowania w data science",
+     "k": "LAB",
+     "p": "dr Sebastian Gnat",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "systemy zarządzania bazami danych",
+     "k": "LAB",
+     "p": "mgr Tomasz Zdybicki",
+     "r": "s. N019 lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "techniki prezentacji i upowszechniania wyników analiz danych",
+     "k": "CW",
+     "p": "dr Dominik Rozkrut",
+     "r": "s. S017 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/11/m540-termin-odrobienia-wykladu-z-dnia-04-11-26-r-z-dr-malgorzata-zakrzewska-grunwald/",
+    "title": "M540- termin odrobienia wykładu z dnia 04.11.26 r. z dr Małgorzatą Zakrzewską-Grünwald",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Zaległy wykład z dnia 04.11.2026 z przedmiotu „Współczesna makroekonomia” odbędzie się w dniu 17.11.2026 r. godz. 12:00, sala S03."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/grupa-e40-przelozenie-zajec-z-dr-m-zakrzewska/",
+    "title": "Grupa E40-przełożenie zajęć z dr M. Zakrzewską",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "Uprzejmie informujemy, że wykłady online z przedmiotu „Współczesna makroekonomia” , prowadzone przez dr Małgorzatę Zakrzewską dla studentów I roku II stopnia kierunku Data Science (grupa E40), zaplanowane na 24–25 października 2026 r. , zostają odwołane. Zajęcia odbędą się w następujących terminach: 6 listopada 2026 r. (piątek) , godz. 18:05–20:35 13 listopada 2026 r. (piątek) , godz. 18:05–20:35 Prosimy o zapoznanie się z aktualnym harmonogramem zajęć, dostępnym na stronie internetowej Wydziału."
+   }
+  ],
+  "zmiany": {
+   "E40": [
+    {
+     "type": "note",
+     "date": "2026-11-06",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-13",
+     "post": 1,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:05:48.530Z"
+ }
+}

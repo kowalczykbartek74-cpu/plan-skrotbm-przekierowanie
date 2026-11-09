@@ -1,0 +1,1321 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-4a3a791142a9",
+ "kierunek": "Marketing",
+ "kierunekEn": "Marketing",
+ "id": "wefiz-mkt-2-nst-2026",
+ "kod": "mktmn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T20:22:14.856Z",
+ "groups": {
+  "E91": {
+   "odd": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Pluta",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Pluta",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Customer and user experience (doświadczenie klienta i użytkownika)",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Pluta",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 116 lab. Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Customer and user experience (doświadczenie klienta i użytkownika)",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Public relations",
+     "k": "W",
+     "p": "dr Maciej Szulc",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "17:05"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-16"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Pluta",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "16:20",
+      "18:50"
+     ],
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Pluta",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Marketing zrównoważony",
+     "k": "K",
+     "p": "mgr Krzysztof Kosmala",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Współczesne trendy konsumenckie",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-11-08",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "AI w marketingu",
+     "k": "W",
+     "p": "dr Tomasz Zdziebko",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Customer and user experience (doświadczenie klienta i użytkownika)",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-11",
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Kształtowanie umiejętności pracy w zespole",
+     "k": "CW",
+     "p": "dr hab. Prof. US Anna Pluta",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 124/125 lab Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 002 Cuk.8",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Badania jakościowe w marketingu",
+     "k": "LAB",
+     "p": "dr Kamila Słupińska",
+     "r": "s. SIL 116 lab. Cuk.8",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Content marketing i storytelling w social mediach",
+     "k": "K",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Customer and user experience (doświadczenie klienta i użytkownika)",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 048 Cuk.8",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Narzędzia analizy danych marketingowych",
+     "k": "LAB",
+     "p": "dr Mateusz Juźwik",
+     "r": "s. SIL 126/127 lab Cuk.8",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Psychologia reklamy i personalizacja przekazów reklamowych",
+     "k": "W",
+     "p": "dr Marcin Janowski",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "Zarządzanie marką",
+     "k": "CW",
+     "p": "mgr Karolina Białas",
+     "r": "s. 003 Cuk.8",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/cukrowa/zajecia-cukrowa/",
+  "posts": [],
+  "zmiany": {
+   "E91": []
+  },
+  "updatedAt": "2026-11-09T18:06:00.814Z"
+ }
+}

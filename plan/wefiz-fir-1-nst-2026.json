@@ -1,0 +1,3300 @@
+{
+ "source": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
+ "wersja": "planynst-4a3a791142a9",
+ "kierunek": "Finanse i rachunkowość",
+ "kierunekEn": "Finance and Accounting",
+ "id": "wefiz-fir-1-nst-2026",
+ "kod": "firn26",
+ "wydzial": "WEFiZ",
+ "rok": 1,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T09:23:11.440Z",
+ "checkedAt": "2026-11-09T20:22:14.856Z",
+ "groups": {
+  "A20": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08d lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "17:05"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08d lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N021A lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N021B lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08d lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:50"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "17:05"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "13:20"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S0104 Mic.64",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "13:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08d lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Barbara Królikowska",
+     "r": "s. N08e lab Mic.64",
+     "pg": "lab:A",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N105 lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "17:05"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "pg": "lab:B",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  },
+  "A21": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "17:05"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N08e lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-06"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:05",
+      "20:35"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "ochrona własności intelektualnej",
+     "k": "W",
+     "p": "dr Jarosław Poteralski",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-23"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "14:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S0123A Mic.64",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "CW",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "s. S03 Mic.64",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "13:45",
+      "15:20"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0203 Mic.64",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:50"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. S0315 lab Mic.64",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:30",
+      "18:00"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "makroekonomia",
+     "k": "W",
+     "p": "dr Wiesława Kostanciak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "10:45"
+     ],
+     "pl": "matematyka",
+     "k": "W",
+     "p": "dr Michał Kuczyński",
+     "r": "s. N020 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "12:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "11:35"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "s. S0106/0107 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:05",
+      "17:05"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "12:30"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N105 lab Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:35"
+     ],
+     "pl": "matematyka",
+     "k": "CW",
+     "p": "dr Anna Landowska",
+     "r": "s. S08 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:50",
+      "14:30"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S02 Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:20"
+     ],
+     "pl": "makroekonomia",
+     "k": "CW",
+     "p": "dr Wiesława Kostanciak",
+     "r": "s. S0100 Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "15:20"
+     ],
+     "pl": "podstawy finansów",
+     "k": "W",
+     "p": "dr hab. prof. US Sławomir Franek",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy finansów",
+     "k": "CW",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. S07 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:30"
+     ],
+     "pl": "podstawy zarządzania",
+     "k": "W",
+     "p": "prof. dr Brigita Zuromskaite-Nagaj",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "12:35",
+      "16:15"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2027-01-24"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "13:45",
+      "16:15"
+     ],
+     "pl": "podstawy finansów",
+     "k": "LAB",
+     "p": "mgr Katarzyna Urbańska",
+     "r": "s. N08c lab Mic.64",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "arkusz kalkulacyjny w finansach i rachunkowości",
+     "k": "LAB",
+     "p": "dr Tomasz Łukaszewski",
+     "r": "s. N08e lab Mic.64",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "W",
+     "p": "dr Tomasz Kufel",
+     "r": "online",
+     "n": "e-zajęcia",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "17:05"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S06 Mic.64",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "14:35",
+      "18:00"
+     ],
+     "pl": "podstawy rachunkowości",
+     "k": "CW",
+     "p": "mgr Krystian Socik",
+     "r": "s. S01 Mic.64",
+     "dates": [
+      "2026-11-15"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/2026/10/m150-m151-m160-m240-odwolanie-zajec-z-dr-brigita-zuromskaite-nagaj-w-dniach-03-04-11-2026-r/",
+    "title": "M150, M151, M160, M240- odwołanie zajęć z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r.",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Wszystkie zajęcia z dr Brigitą Zuromskaite-Nagaj w dniach 03-04.11.2026 r. nie odbędą się. Terminy odrobienia zajęć: 1 rok GN, wykład- 05.11.2026 r., godz. 12.00, sala S017 M151, ćwiczenia- 05.11.2026 r., godz. 13.45, sala S017 M160, wykład- 10.11.2026 r., godz. 10.00, sala S07 M160, ćwiczenia- 10.11.2026 r., godz. 12.00, sala S103 M150, ćwiczenia- 12.11.2026 r. godz. 12.00, sala S08 M240, wykład i ćwiczenia- terminy odrobienia zostaną podane w terminie późniejszym"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/10/zmiany-w-harmonogramie-zajec-grupy-a20-i-a21-finanse-i-rachunkowosc-i-rok-i-stopnia-studia-niestacjonarne/",
+    "title": "Zmiany w harmonogramie zajęć-grupy A20 i A21, Finanse i Rachunkowość, I rok I stopnia (studia niestacjonarne)",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Uprzejmie informujemy, że w harmonogramie zajęć dla grup A20 i A21 w terminie 24–25 października 2026 r. wprowadzono drobne zmiany. Prosimy o zapoznanie się z aktualnym planem zajęć, dostępnym na stronie internetowej Wydziału."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/mickiewicza/zajecia-mickiewicza/2026/09/finanse-i-rachunkowosc-1-rok-i-stopien-grupy-m120-m123/",
+    "title": "Finanse i Rachunkowość 1 rok I stopień (grupy M120-M123)",
+    "ym": "2026-09",
+    "pub": "2026-09-30",
+    "text": "Dnia 14.10.2026 r. zostają odwołane zajęcia z dr hab.prof.US Iwoną Szymczak Termin odrobienia zajęć: 30.10.2026 r. o godzinie 13:45 w Auli Nowej"
+   }
+  ],
+  "zmiany": {
+   "A20": [
+    {
+     "type": "note",
+     "date": "2026-10-14",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-10-25",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-30",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "post": 2
+    }
+   ],
+   "A21": [
+    {
+     "type": "note",
+     "date": "2026-10-14",
+     "post": 2
+    },
+    {
+     "type": "note",
+     "date": "2026-10-25",
+     "post": 1
+    },
+    {
+     "type": "extra",
+     "kind": "makeup",
+     "date": "2026-10-30",
+     "start": "13:45",
+     "end": "15:15",
+     "pl": "podstawy prawa",
+     "k": "W",
+     "p": "dr hab. prof. US Iwona Szymczak",
+     "post": 2
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T18:05:48.643Z"
+ }
+}
