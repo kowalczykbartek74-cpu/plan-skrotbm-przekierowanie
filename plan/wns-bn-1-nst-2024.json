@@ -1,0 +1,1112 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (18 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Bezpieczeństwo narodowe",
+ "kierunekEn": "National Security",
+ "id": "wns-bn-1-nst-2024",
+ "kod": "bnn24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "BN3": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wywiad konkurencyjny i biznesowy",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr H. Pachciarek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 27hve4r",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 257",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "prof. R. Podgórzańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: jrpzck9",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna Rzeczypospolitej Polskiej",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Kryminalistyka z elementami medycyny sądowej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Kryminologia",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: f0zdscu",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna Rzeczypospolitej Polskiej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna Rzeczypospolitej Polskiej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka negocjacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 257",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Kryminalistyka z elementami medycyny sądowej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 143",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Kryminalistyka z elementami medycyny sądowej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka negocjacji",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 257",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wywiad konkurencyjny i biznesowy",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr H. Pachciarek",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 27hve4r",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 257",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "09:00",
+      "12:30"
+     ],
+     "p": "prof. R. Podgórzańska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: jrpzck9",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna Rzeczypospolitej Polskiej",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Kryminalistyka z elementami medycyny sądowej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Kryminologia",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "prof. M. Cupryjak",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: f0zdscu",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna Rzeczypospolitej Polskiej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:00"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Polityka zagraniczna Rzeczypospolitej Polskiej",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr K. Głowacka",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "17:45",
+      "19:30"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-10-10",
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr P. Krywult",
+     "r": "s. 143",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka negocjacji",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 257",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Kryminalistyka z elementami medycyny sądowej",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "10:45",
+      "13:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 102",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Bioterroryzm",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr J. Skorupski",
+     "r": "s. 143",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Kryminalistyka z elementami medycyny sądowej",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr D. Bluszcz",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Operacje i siły specjalne",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 144",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Operacje i siły specjalne",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr W. Zakrzewski",
+     "r": "s. 110",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Ochrona informacji niejawnych i danych osobowych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "17:45"
+     ],
+     "p": "prof. P. Chrobak",
+     "r": "s. 178",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Konflikty na Bliskim Wschodzie (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Teoria i praktyka negocjacji",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 257",
+     "dates": [
+      "2026-12-13"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

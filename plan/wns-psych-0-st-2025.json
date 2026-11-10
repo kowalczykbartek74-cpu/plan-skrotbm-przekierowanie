@@ -1,0 +1,1580 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/Psych-II-3-2.pdf",
+ "wersja": "Psych-II-3-2.pdf",
+ "sha256": "c2e380ae52bc0a14d657e70a0c55be71b572c2c8fec813feb01c5302d1dde772",
+ "kierunek": "Psychologia",
+ "kierunekEn": "Psychology",
+ "id": "wns-psych-0-st-2025",
+ "kod": "psychj25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "PSYCH2": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 116",
+     "pg": "gr:21"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Hancewicz",
+     "r": "s. 04H",
+     "pg": "gr:24"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 07H",
+     "pg": "gr:22"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 116",
+     "pg": "gr:22"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 07H",
+     "pg": "gr:21"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 07H",
+     "pg": "gr:23"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr I. Rokita-Lisiecka",
+     "r": "s. 142",
+     "pg": "gr:23"
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "lab:2"
+    },
+    {
+     "d": 1,
+     "pl": "Wprowadzenie do diagnostyki psychologicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr E. Rutkowska",
+     "r": "s. 116"
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "gr:21"
+    },
+    {
+     "d": 1,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr K. Karasiewicz",
+     "r": "s. 009",
+     "pg": "gr:22"
+    },
+    {
+     "d": 1,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr W. Rodzeń",
+     "r": "s. 010",
+     "pg": "gr:24"
+    },
+    {
+     "d": 1,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "mgr E. Wilanowska",
+     "r": "s. 04H",
+     "pg": "gr:23",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "lab:3"
+    },
+    {
+     "d": 1,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr D. Suchecka",
+     "r": "s. 17H",
+     "pg": "gr:21",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "lab:5"
+    },
+    {
+     "d": 1,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr K. Karasiewicz",
+     "r": "s. 009",
+     "pg": "gr:21"
+    },
+    {
+     "d": 3,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr K. Karasiewicz",
+     "r": "s. 116",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Mózg – Sztuka – Psychologia",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. A. Potemkowski",
+     "r": "s. 116",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Psychologia osobowości",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr E. Hempolińska",
+     "r": "s. 152"
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula Wydziału Nauk",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "pg": "gr:23",
+     "dates": [
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-10",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr E. Wilanowska",
+     "r": "s. 04H",
+     "pg": "gr:22",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 17H",
+     "pg": "gr:24"
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "pg": "gr:24",
+     "dates": [
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-10",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "mgr W. Rodzeń",
+     "r": "s. 009",
+     "pg": "gr:23"
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany 15 godzin Plany zajęć – studia stacjonarne – Wydział Nauk Społecznych – Uniwersytet Szczeciński",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr D. Suchecka",
+     "r": "s. 22H",
+     "pg": "gr:24",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-20",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:4",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:4",
+     "dates": [
+      "2026-11-20",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:5",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:6",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:5",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:6",
+     "dates": [
+      "2026-11-20",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 116",
+     "pg": "gr:21"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr A. Hancewicz",
+     "r": "s. 04H",
+     "pg": "gr:24"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 07H",
+     "pg": "gr:22"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 116",
+     "pg": "gr:22"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 07H",
+     "pg": "gr:21"
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 07H",
+     "pg": "gr:23"
+    },
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr I. Rokita-Lisiecka",
+     "r": "s. 142",
+     "pg": "gr:23"
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "lab:2"
+    },
+    {
+     "d": 1,
+     "pl": "Wprowadzenie do diagnostyki psychologicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr E. Rutkowska",
+     "r": "s. 116"
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "gr:21"
+    },
+    {
+     "d": 1,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr K. Karasiewicz",
+     "r": "s. 009",
+     "pg": "gr:22"
+    },
+    {
+     "d": 1,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr W. Rodzeń",
+     "r": "s. 010",
+     "pg": "gr:24"
+    },
+    {
+     "d": 1,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "mgr E. Wilanowska",
+     "r": "s. 04H",
+     "pg": "gr:23",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "lab:3"
+    },
+    {
+     "d": 1,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr D. Suchecka",
+     "r": "s. 17H",
+     "pg": "gr:21",
+     "dates": [
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24",
+      "2026-12-01",
+      "2026-12-08",
+      "2026-12-15",
+      "2026-12-22"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Wychowanie fizyczne",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "n": "termin w inny dzień: 21.10, 4.11, 18.11, 9.12, 13.01",
+     "pg": "lab:5"
+    },
+    {
+     "d": 1,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr K. Karasiewicz",
+     "r": "s. 009",
+     "pg": "gr:21"
+    },
+    {
+     "d": 3,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr K. Karasiewicz",
+     "r": "s. 116",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Mózg – Sztuka – Psychologia",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "prof. A. Potemkowski",
+     "r": "s. 116",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Psychologia osobowości",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr E. Hempolińska",
+     "r": "s. 152"
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie z obrony cywilnej",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula Wydziału Nauk",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "pg": "gr:23",
+     "dates": [
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-10",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr E. Wilanowska",
+     "r": "s. 04H",
+     "pg": "gr:22",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Psychologia osobowości",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "mgr M. Ligocka",
+     "r": "s. 17H",
+     "pg": "gr:24"
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 086",
+     "pg": "gr:24",
+     "dates": [
+      "2026-10-22",
+      "2026-11-05",
+      "2026-11-19",
+      "2026-12-10",
+      "2027-01-14"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metodologia badań psychologicznych i statystyka",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "mgr W. Rodzeń",
+     "r": "s. 009",
+     "pg": "gr:23"
+    },
+    {
+     "d": 3,
+     "pl": "Wykład ogólnouczelniany 15 godzin Plany zajęć – studia stacjonarne – Wydział Nauk Społecznych – Uniwersytet Szczeciński",
+     "k": "W",
+     "time": [
+      "17:45",
+      "19:15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Podstawy pomocy psychologicznej – obserwacja, rozmowa i wywiad, studium przypadku",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr D. Suchecka",
+     "r": "s. 22H",
+     "pg": "gr:24",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:1",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:2",
+     "dates": [
+      "2026-11-20",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:4",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:3",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:4",
+     "dates": [
+      "2026-11-20",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:5",
+     "dates": [
+      "2026-10-02",
+      "2026-10-09",
+      "2026-10-16",
+      "2026-10-23",
+      "2026-10-30",
+      "2026-11-06",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr A. Falewicz",
+     "r": "s. 17H",
+     "pg": "lab:6",
+     "dates": [
+      "2026-11-20",
+      "2026-11-27",
+      "2026-12-04",
+      "2026-12-11",
+      "2026-12-18",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-01-08",
+      "2027-01-15",
+      "2027-01-22"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:5",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Diagnoza sprawności poznawczych",
+     "k": "LAB",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr J. Pracka",
+     "r": "s. 07H",
+     "pg": "lab:6",
+     "dates": [
+      "2026-11-20",
+      "2026-12-11",
+      "2027-01-15"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zmiana-terminu-realizacji-zajec-ze-studentami-erasmus-z-przedmiotu-meditation-theory-and-practice/",
+    "title": "Zmiana terminu realizacji zajęć ze studentami Erasmus z przedmiotu „Meditation- theory and practice”",
+    "ym": "2026-11",
+    "pub": "2026-11-06",
+    "text": "Zajęcia z dr Magdaleną Kerestey „Meditation- theory and practice” zostają odwołane w terminie 10.11.2026, godzina 11.45. Termin odpracowania zajęć: w dniu 1.12.2026 o godzinie 11.45, sala 138 ICK."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-lektoratu-jezyka-angielskiego-z-mgr-aleksandra-meyer/",
+    "title": "Odwołanie zajęć z lektoratu języka angielskiego z mgr Aleksandrą Meyer",
+    "ym": "2026-10",
+    "pub": "2026-10-22",
+    "text": "W dniu 23.10 i 26.10.2026 zajęcia języka angielskiego z mgr Aleksandrą Meyer są odwołane, w porozumieniu ze studentami zajęcia zostaną odrobione w poniższym terminie: 2r. Psychologia grupa 1 – z 26 października, godz. 8:15, na 9 listopada, godz. 15:15–16:45, ul. Krakowska 71/79, sala 235. 2r. Psychologia grupa 2 – z 26 października, godz. 10:00, na 30 października, godz. 8:15–9:45, ul. Krakowska 71/79, sala 144. 2r. BW – z 26 października, godz. 11:45, na 6 listopada, godz. 10:00–11:30, sala 107 ACKJ 2r. [1lk] WF – z 23 października, godz. 13:30, na 29 stycznia, godz. 13:30–15:00, sala 9 w ACKJ."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-termu-realizacji-zajec-z-drem-adamem-falewiczem/",
+    "title": "Zmiana termu realizacji zajęć z drem Adamem Falewiczem",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Szanowni Studenci! informacja dotyczy studentów z grup L1, L3 i L5 uczęszczających na zajęcia z przedmiotu „ Diagnoza sprawności poznawczych” . Zajęcia zaplanowane na 16 i 23 października zostaną odrobione w terminach wskazanych poniżej. Na czas odrabiania zajęć proszę o zapisanie się do jednej z trzech nowych grup za pośrednictwem pliku dostępnego do edycji w grupie przedmiotu na MS Teams. Podział ten obowiązuje wyłącznie na potrzeby odrabiania zajęć. Grupa 1: 12 października (poniedziałek), godz. 10.00–11.30, sala 152 – zamiast zajęć z 16 października. 26 października (poniedziałek), godz. 10.00–11.30, sala 21H – zamiast zajęć z 23 października. Grupa 2: 12 października (poniedziałek), godz. 11.45–13.15, sala 152 – zamiast zajęć z 16 października. 28 października (środa), godz. 17.00–18.30, sala 17H – zamiast zajęć z 23 października. Grupa 3: 12 października (poniedziałek), rozpoczęcie o godz. 13.30-15.00, sala 152 – zamiast zajęć z 16 października. 26 października (poniedziałek), rozpoczęcie o godz. 13.30-15.00, sala 21H – zamiast zajęć z 23 października. Jedna lista zapisów obowiązuje na oba odrabiane spotkania – zapis do wybranej grupy dotyczy obu przypisanych jej terminów. Proszę o wybór grupy tak, aby oba spotkania nie kolidowały z ćwiczeniami z „Psychologii osobowości” ani z zajęciami z języka angielskiego."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-realizacji-zajec-z-dr-n-med-i-n-o-zdr-daria-suchecka/",
+    "title": "Zmiana terminu realizacji zajęć z dr n. med. i n. o zdr. Darią Suchecką",
+    "ym": "2026-10",
+    "pub": "2026-10-06",
+    "text": "Szanowni Studenci! ze względu na wyjazd na konferencję, zajęcia z przedmiotu „Podstawy pomocy psychologicznej” dla studentów II roku gr 1 psychologii z dnia 7 X i 14.X z godziny 11:45 (środa) zostają przełożone na dzień 26.X i 9.XI godzina 11:45-15:00, sala 108."
+   }
+  ],
+  "zmiany": {
+   "PSYCH2": [
+    {
+     "type": "note",
+     "date": "2026-10-16",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-23",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-26",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-09",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-10",
+     "post": 0,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-12-01",
+     "post": 0,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.867Z"
+ }
+}

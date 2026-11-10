@@ -1,0 +1,916 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (12 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Pedagogika przedszkolna i wczesnoszkolna",
+ "kierunekEn": "Preschool and Early School Education",
+ "id": "wns-ppiw-0-nst-2025",
+ "kod": "ppiwjn25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 0,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "PPIW2": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Podstawy edukacji zdrowotnej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr I. Bonisławska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M. Grabowska, mgr A. Meyer",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr J. Paśnicka Stopa",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr J. Paśnicka Stopa",
+     "r": "s. 308",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji zdrowotnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr I. Bonisławska",
+     "r": "s. 26, bud. WKFiZ al",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "mgr A.Leśniewska",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "mgr A.Leśniewska",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Podstawy edukacji zdrowotnej",
+     "k": "W",
+     "time": [
+      "16:00",
+      "20:15"
+     ],
+     "p": "dr I. Bonisławska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji informatycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr A. Karyń",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "14:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Pawlusińska",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr A. Meyer",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr M. Grabowska, mgr A. Meyer",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr J. Paśnicka Stopa",
+     "r": "s. 220",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "mgr J. Paśnicka Stopa",
+     "r": "s. 308",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji matematycznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr L. Pawlusińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-29"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 53 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Pedagogika społeczna",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr A.Linka",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji zdrowotnej",
+     "k": "W",
+     "time": [
+      "10:45",
+      "15:00"
+     ],
+     "p": "dr I. Bonisławska",
+     "r": "s. 26, bud. WKFiZ al",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "mgr A.Leśniewska",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr A.Leśniewska",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-11-08",
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Podstawy edukacji technicznej",
+     "k": "LAB",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "mgr A.Leśniewska",
+     "dates": [
+      "2026-10-25"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

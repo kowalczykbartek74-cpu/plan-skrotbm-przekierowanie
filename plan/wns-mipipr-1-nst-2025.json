@@ -1,0 +1,1260 @@
+{
+ "source": "https://nsp.usz.edu.pl/studenci/plany-zajec-studia-niestacjonarne/",
+ "wersja": "38 plików zjazdów (17 dni)",
+ "sha256": "cacc76bd67362b9cf07a3f890a77e5b0cd78f5a7f380ea96e57b01b084d5f16e",
+ "kierunek": "Management instytucji publicznych i Public Relations",
+ "kierunekEn": "Public Institution Management and Public Relations",
+ "id": "wns-mipipr-1-nst-2025",
+ "kod": "mipiprn25",
+ "wydzial": "WNS",
+ "rok": 2,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "MIPIPR2": {
+   "odd": [
+    {
+     "d": 4,
+     "pl": "Media relations",
+     "k": "K",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 6fmy4ic",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Media relations",
+     "k": "K",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 6fmy4ic",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "K",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Design Thinking",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr K. Kukiełko",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 71cqzgh",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "K",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Design Thinking",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr K. Kukiełko",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Władza i przywództwo",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: d6l8v20",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 71cqzgh",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 71cqzgh",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Władza i przywództwo",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: d6l8v20",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr J. Witczak",
+     "r": "s. 239",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Design Thinking",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr K. Kukiełko",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: z8kz3aw",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Design Thinking",
+     "k": "K",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Design Thinking",
+     "k": "K",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Władza i przywództwo",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: d6l8v20",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Komunikowanie społeczne",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "K",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "pl": "Media relations",
+     "k": "K",
+     "time": [
+      "16:15",
+      "18:30"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 6fmy4ic",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Media relations",
+     "k": "K",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr P. Wawrzyński",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 6fmy4ic",
+     "dates": [
+      "2026-10-09",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Wykład ogólnouczelniany",
+     "k": "W",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "n": "według harmonogramu na stronie wydziału",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2026-11-27"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "K",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Design Thinking",
+     "k": "W",
+     "time": [
+      "09:00",
+      "10:45"
+     ],
+     "p": "dr K. Kukiełko",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 71cqzgh",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "W",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "K",
+     "time": [
+      "10:45",
+      "12:30"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Design Thinking",
+     "k": "W",
+     "time": [
+      "12:30",
+      "16:00"
+     ],
+     "p": "dr K. Kukiełko",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "12:30",
+      "14:15"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Władza i przywództwo",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: d6l8v20",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 71cqzgh",
+     "dates": [
+      "2026-11-07",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Komunikowanie społeczne",
+     "k": "W",
+     "time": [
+      "16:00",
+      "17:45"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 71cqzgh",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 5,
+     "pl": "Władza i przywództwo",
+     "k": "W",
+     "time": [
+      "17:45",
+      "20:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: d6l8v20",
+     "dates": [
+      "2026-11-28"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "mgr J. Witczak",
+     "r": "s. 239",
+     "dates": [
+      "2026-10-25",
+      "2026-11-22",
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wybrane aspekty polityki zagranicznej",
+     "k": "W",
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "p": "dr D. Kowalewska",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: 3kuvern",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Design Thinking",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr K. Kukiełko",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: z8kz3aw",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Design Thinking",
+     "k": "K",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 141",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Design Thinking",
+     "k": "K",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr M. Potkańska",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Władza i przywództwo",
+     "k": "W",
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: d6l8v20",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Warsztaty radiowe-wymowa i emisja głosu",
+     "k": "CW",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "mgr A. Łuczkowska",
+     "r": "s. 239",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Władza i przywództwo",
+     "k": "K",
+     "time": [
+      "14:15",
+      "16:00"
+     ],
+     "p": "dr L. Hurska-Kowalczyk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: hpfyorm",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Wykład fakultatywny: Badanie struktur organizacyjnych instytucji politycznych",
+     "k": "W",
+     "time": [
+      "14:15",
+      "16:45"
+     ],
+     "p": "prof. Ł. Tomczak",
+     "r": "s. 237",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Content marketing",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "p": "dr M. Szulc",
+     "r": "s. 239",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "W",
+     "time": [
+      "16:00",
+      "18:30"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-10-11"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Islam bez tabu (przedmiot do wyboru)",
+     "k": "K",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "prof. F. Jomma",
+     "r": "s. 248",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Komunikowanie społeczne",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "p": "dr K. Zawadzka",
+     "r": "s. 141",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "pl": "Organizacja i zarządzanie w instytucjach publicznych",
+     "k": "K",
+     "time": [
+      "18:45",
+      "20:15"
+     ],
+     "p": "dr R. Miszczuk",
+     "r": "online (MS Teams)",
+     "n": "kod MS Teams: xavuezd",
+     "dates": [
+      "2026-10-11"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

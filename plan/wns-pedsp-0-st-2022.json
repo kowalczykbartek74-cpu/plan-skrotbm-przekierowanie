@@ -1,0 +1,587 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PEDSPEC-JM-13.pdf",
+ "wersja": "PEDSPEC-JM-13.pdf",
+ "sha256": "ff0c3c7979f4d4db7cc9ed72c155dbe3b6a81deebec2a7ff5dbc527bfbf4650c",
+ "kierunek": "Pedagogika specjalna",
+ "kierunekEn": "Special Education",
+ "id": "wns-pedsp-0-st-2022",
+ "kod": "pedspj22",
+ "wydzial": "WNS",
+ "rok": 5,
+ "stopien": 0,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "PEDSP5": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Diagnoza i ocena funkcjonowania osób ze spektrum autyzmu",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr J. Bułąwa-Halasz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj w g. 11:45-13:15",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Komunikacja alternatywna i wspomagająca",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr M. Iwan",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj w g. 13:20-14:15",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza i ocena funkcjonowania osób ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Projektowanie pracy z uczniem ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr N. Mruszczyk- Orman",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metody wspomagania rozwoju osób ze spektrum autyzmu",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Buława-Halasz",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metody wspomagania rozwoju osób ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr M. Iwan",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 15:45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US, prof. dr hab. T. Żółkowska",
+     "r": "s. 202 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka 60 godzin, opiekun",
+     "k": "X",
+     "time": [
+      "08:15",
+      "15:00"
+     ],
+     "p": "mgr M. Iwan"
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Diagnoza i ocena funkcjonowania osób ze spektrum autyzmu",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr J. Bułąwa-Halasz",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj w g. 11:45-13:15",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Komunikacja alternatywna i wspomagająca",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr M. Iwan",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj w g. 13:20-14:15",
+     "dates": [
+      "2026-10-05",
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Diagnoza i ocena funkcjonowania osób ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "mgr N. Mruszczyk-Orman",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Projektowanie pracy z uczniem ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr N. Mruszczyk- Orman",
+     "r": "s. 50 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metody wspomagania rozwoju osób ze spektrum autyzmu",
+     "k": "W",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "p": "dr J. Buława-Halasz",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metody wspomagania rozwoju osób ze spektrum autyzmu",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "mgr M. Iwan",
+     "r": "s. 49 ul. Ogińskiego 16-17",
+     "n": "zaj do g. 15:45",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US, prof. dr hab. T. Żółkowska",
+     "r": "s. 202 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 4,
+     "pl": "Praktyka 60 godzin, opiekun",
+     "k": "X",
+     "time": [
+      "08:15",
+      "15:00"
+     ],
+     "p": "mgr M. Iwan"
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/odwolane-zajecia-z-dr-j-bulawa-halasz/",
+    "title": "Odwołane zajęcia z dr J. Buławą-Halasz",
+    "ym": "2026-11",
+    "pub": "2026-11-09",
+    "text": "Odwołane zajęcia z dr J. Buławą-Halasz — Lp. Z dnia Z godziny Na dzień Na godzinę Numer sali Numer grupy Forma realizacji przepadających zajęć 1 2026-11-09 10:00 – – – – Odrobienie zajęć Termin odrobienia zajęć zostanie ustalony w porozumieniu ze studentami Kierunek studiów Forma studiów Stopień studiów Rok studiów Przedmiot Forma zajęć Proponowane zastępstwo pedagogika specjalna stacjonarne jednolite magisterskie 5 diagnoza i ocena funkcjonowania osób ze spektrum autyzmu wykład –"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/11/zajecia-z-dr-joanna-bulawa-halasz-odwolane-4/",
+    "title": "Zajęcia z dr Joanną Buławą-Halasz odwołane",
+    "ym": "2026-11",
+    "pub": "2026-11-05",
+    "text": "Szanowni Państwo, zajęcia dnia 5.11. o godz. 11:45 z dr Joanną Buławą-Halasz nie odbędą się. Zostaną odpracowane w innym, ustalonym wspólnie terminie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-dr-hab-i-ramik-mazewska-prof-us/",
+    "title": "Odwołanie zajęć z dr hab. I. Ramik-Mażewską, prof. US",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że zajęcia z dr hab. I. Ramik-Mażewską, prof. US zaplanowane na dzień 13 października 2026 r. są odwołane. Terminy odrobienia zostaną podane w najbliższym czasie."
+   }
+  ],
+  "zmiany": {
+   "PEDSP5": [
+    {
+     "type": "note",
+     "date": "2026-11-05",
+     "post": 1,
+     "niska": true
+    },
+    {
+     "type": "cancel",
+     "date": "2026-11-09",
+     "start": "10:00",
+     "pl": "Diagnoza i ocena funkcjonowania osób ze spektrum autyzmu",
+     "post": 0,
+     "posts": [
+      0
+     ]
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.638Z"
+ }
+}

@@ -1,0 +1,1640 @@
+{
+ "source": "https://wpia.usz.edu.pl/wp-content/uploads/III-prawo-s%C5%82u%C5%BCb-mundurowych-niestacjonarne-I-stopnia.pdf",
+ "wersja": "III-prawo-służb-mundurowych-niestacjonarne-I-stopnia.pdf",
+ "sha256": "7b478393c8fbbf350fc54150b62ba928750a2c600847d314e289541b9b439dc7",
+ "kierunek": "Prawo służb mundurowych",
+ "kierunekEn": "Law for Uniformed Services",
+ "id": "wpia-psm-1-nst-2024",
+ "kod": "psmn24",
+ "wydzial": "WPiA",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "nst",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:38:26.852Z",
+ "checkedAt": "2026-11-09T23:22:54.646Z",
+ "groups": {
+  "PSM3": {
+   "odd": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. I. Szymczak, prof. US, dr A. Pyrzyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. I. Szymczak, prof. US, dr A. Pyrzyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107 ICKiBS przy ul. Krakowskiej 71/79 (strzelnica)",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "X",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107 ICKiBS przy ul. Krakowskiej 71/79 (strzelnica)",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107 ICKiBS przy ul. Krakowskiej 71/79 (strzelnica)",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "X",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "X",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Zubek",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Niedzielska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 308 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. I. Szymczak, prof. US, dr A. Pyrzyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2026-10-09",
+      "2026-11-13",
+      "2026-11-20"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "20:15"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2026-10-23",
+      "2026-11-06",
+      "2026-12-11"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "17:00",
+      "19:30"
+     ],
+     "pl": "Wykład z dziedziny nauk humanistycznych",
+     "k": "W",
+     "n": "wykaz wykładów: https://wpia.usz.edu.pl/rozklady-zajec/",
+     "dates": [
+      "2027-01-08"
+     ]
+    },
+    {
+     "d": 4,
+     "time": [
+      "18:00",
+      "20:15"
+     ],
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "p": "dr hab. I. Szymczak, prof. US, dr A. Pyrzyńska",
+     "r": "online (MS Teams)",
+     "dates": [
+      "2027-01-15"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107 ICKiBS przy ul. Krakowskiej 71/79 (strzelnica)",
+     "dates": [
+      "2026-10-24",
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "14:15"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Współpraca międzynarodowa służb mundurowych",
+     "k": "X",
+     "p": "dr K. Dąbrowski",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-30"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-24"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "X",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "17:15"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-12-12"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:00",
+      "16:30"
+     ],
+     "pl": "Środki przymusu bezpośredniego",
+     "k": "X",
+     "p": "dr W. Niemiec",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2026-12-19"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:30",
+      "16:00"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107 ICKiBS przy ul. Krakowskiej 71/79 (strzelnica)",
+     "dates": [
+      "2027-01-09"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-24",
+      "2026-11-21"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-10-10"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "18:00"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-07"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "14:45",
+      "17:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-14"
+     ]
+    },
+    {
+     "d": 5,
+     "time": [
+      "15:15",
+      "17:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 107 ICKiBS przy ul. Krakowskiej 71/79 (strzelnica)",
+     "dates": [
+      "2026-12-05"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 118 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-12-13"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "pl": "Typologia broni",
+     "k": "X",
+     "p": "mgr W. Szelestowicz",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "10:45"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "X",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "pl": "Usługi detektywistyczne",
+     "k": "X",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "09:00",
+      "11:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-10-25"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Odpowiedzialność dyscyplinarna w służbach mundurowych",
+     "k": "W",
+     "p": "dr M. Zamroczyńska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-11-08"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "13:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 220 Narutowicza",
+     "dates": [
+      "2026-11-15"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:00",
+      "12:30"
+     ],
+     "pl": "Prawo i postępowanie w sprawach o wykroczenia",
+     "k": "W",
+     "p": "mgr N. Michalska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-06"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr M. Zubek",
+     "r": "s. 118 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język angielski",
+     "k": "CW",
+     "p": "mgr I. Niedzielska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 104 al. Piastów 40b",
+     "dates": [
+      "2026-10-25",
+      "2026-11-08",
+      "2026-12-13",
+      "2027-01-10"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 308 Narutowicza",
+     "dates": [
+      "2027-01-31"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "pl": "Prawo o ruchu drogowym",
+     "k": "W",
+     "p": "dr P. Jachimowicz-Jankowska",
+     "r": "s. 218 Narutowicza",
+     "dates": [
+      "2026-11-22"
+     ]
+    },
+    {
+     "d": 6,
+     "time": [
+      "11:45",
+      "14:15"
+     ],
+     "pl": "Przestępczość gospodarcza",
+     "k": "X",
+     "p": "mgr K. Dzwonkowska",
+     "r": "s. 115 al. Piastów 40b",
+     "dates": [
+      "2026-12-20"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ }
+}

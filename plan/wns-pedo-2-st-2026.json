@@ -1,0 +1,760 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
+ "wersja": "PedO-II-79.pdf",
+ "sha256": "b6212bd0146bf1b02a5b81d77ba1fd5763d4923eba2c6a8559e90c58cc221886",
+ "kierunek": "Pedagogika",
+ "kierunekEn": "Pedagogy",
+ "id": "wns-pedo-2-st-2026",
+ "kod": "pedom26",
+ "wydzial": "WNS",
+ "rok": 1,
+ "stopien": 2,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "PEDO1": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Metodyka edukacji zdrowotnej i promocji zdrowia",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 11:30",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Problemy opiekuńczo-wychowawcze",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia stosowana",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "n": "zajęcia w godz. 10:00 – 14:00",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Pedagogika porównawcza",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr I. Walczowska, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr A. Czerniawska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Podstawy socjoterapii",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Metodologia badań społecznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. L. Dziaczkowska, prof. US",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Organizacja i zarządzanie w oświacie",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "termin w inny dzień: 29.01",
+     "dates": [
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Podstawy dydaktyki",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 15:05; ost zaj do g. 15:00; pierwsze zaj od g. 15:05; ost zaj do g. 15:00",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. L. Dziaczkowska, prof. US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. dr hab., dr hab. R. Iwański",
+     "r": "s. 219 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. J. Nowotniak, prof. US"
+    },
+    {
+     "d": 3,
+     "pl": "Antropologiczne podstawy edukacji",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr I. Kamionka",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 16:00",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Metodyka edukacji zdrowotnej i promocji zdrowia",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 108 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Problemy opiekuńczo-wychowawcze",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 108 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Metodyka edukacji zdrowotnej i promocji zdrowia",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 11:30",
+     "dates": [
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Problemy opiekuńczo-wychowawcze",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Psychologia stosowana",
+     "k": "W",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr A. Chilman",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "n": "zajęcia w godz. 10:00 – 14:00",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Pedagogika porównawcza",
+     "k": "CW",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr I. Walczowska, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 1,
+     "pl": "Pedagogika ogólna",
+     "k": "CW",
+     "time": [
+      "16:00",
+      "19:30"
+     ],
+     "p": "mgr A. Czerniawska",
+     "r": "s. 2 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-15",
+      "2026-12-22",
+      "2026-12-29",
+      "2027-01-05",
+      "2027-01-12",
+      "2027-01-19",
+      "2027-01-26"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Podstawy socjoterapii",
+     "k": "W",
+     "time": [
+      "08:15",
+      "11:30"
+     ],
+     "p": "dr hab. I. Ramik-Mażewska, prof. US",
+     "r": "s. 40 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Metodologia badań społecznych",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. L. Dziaczkowska, prof. US",
+     "r": "s. 58 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 13:15",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Organizacja i zarządzanie w oświacie",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr inż. M. Nermend",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "termin w inny dzień: 29.01",
+     "dates": [
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Podstawy dydaktyki",
+     "k": "W",
+     "time": [
+      "13:30",
+      "16:45"
+     ],
+     "p": "dr P. Wężniejewska",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 15:05; ost zaj do g. 15:00; pierwsze zaj od g. 15:05; ost zaj do g. 15:00",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Pedagogika ogólna",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. L. Dziaczkowska, prof. US",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 12:30",
+     "dates": [
+      "2026-10-07",
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04",
+      "2026-11-11",
+      "2026-11-18",
+      "2026-11-25",
+      "2026-12-02"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "prof. dr hab., dr hab. R. Iwański",
+     "r": "s. 219 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 3,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr hab. J. Nowotniak, prof. US"
+    },
+    {
+     "d": 3,
+     "pl": "Antropologiczne podstawy edukacji",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr I. Kamionka",
+     "r": "s. 43 ul. Ogińskiego 16-17",
+     "n": "pierwsze zaj od g. 16:00",
+     "dates": [
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Metodyka edukacji zdrowotnej i promocji zdrowia",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr N. Cybort-Zioło",
+     "r": "s. 108 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16"
+     ]
+    },
+    {
+     "d": 4,
+     "pl": "Problemy opiekuńczo-wychowawcze",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 108 ul. Krakowska 71-79",
+     "dates": [
+      "2026-10-09",
+      "2026-10-16"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-dr-hab-i-ramik-mazewska-prof-us/",
+    "title": "Odwołanie zajęć z dr hab. I. Ramik-Mażewską, prof. US",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Informujemy, że zajęcia z dr hab. I. Ramik-Mażewską, prof. US zaplanowane na dzień 13 października 2026 r. są odwołane. Terminy odrobienia zostaną podane w najbliższym czasie."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/terminy-odrobienia-zajec-z-dr-n-cybort-ziolo/",
+    "title": "Terminy odrobienia zajęć z dr N. Cybort-Zioło",
+    "ym": "2026-10",
+    "pub": "2026-10-09",
+    "text": "Terminy odrobienia (kierunek EA II st.): – 12.10, 13.30-14.15, – 19.10, 13.30-14.15, – 26.10, 13.30-14.15 – 9.11, 13.30-14.15. Sala 50/Ogińskiego"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/zmiana-terminu-zajec-z-dr-hab-l-dziaczkowska-prof-us/",
+    "title": "Zmiana terminu zajęć z dr hab. L. Dziaczkowską, prof. US",
+    "ym": "2026-10",
+    "pub": "2026-10-05",
+    "text": "Informujemy, że zajęcia z I r. Pedagogiki II stopnia (stacjonarne) z metodologii badań społecznych (w. i ć.) zostają przeniesione z dnia 9.10.2026r. (piątek), z godz. 11.45-15.00 na dzień 7.10.2026r. (środa), godz. 13.30-16.45, s. 43/Ogińskiego."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/informacja-o-odwolaniu-zajec-w-dniu-5-x-26-r-instytut-pedagogiki/",
+    "title": "Informacja o odwołaniu zajęć w dniu 5 X 26 r. – Instytut Pedagogiki",
+    "ym": "2026-10",
+    "pub": "2026-10-02",
+    "text": "W związku z uroczystością pogrzebową Pani dr hab. Elżbiety Magiery, prof. US zajęcia z następującymi wykładowcami w poniedziałek 5 października w godz. 9:00 – 17:00 są odwołane (terminy odrobienia zostaną podane w terminie późniejszym): dr hab. Anna Murawska, prof. US, dr hab. Joanna Król, prof. US, dr hab. Julita Orzelska, prof. US, dr hab. Małgorzata Wałejko, prof. US, dr hab. Mariusz Szajda, prof. US, dr Barbara Żakowska, dr hab. Justyna Nowotniak, prof. US, dr hab. Jacek Moroz, prof. US, dr hab. Marcin Wlazło, prof. US, dr Edyta Kopaczewska, dr Zofia Kuczyńska, dr Paweł Popek, dr Paulina Wężniejewska, dr Natalia Cybort-Zioło, dr Paula Wiażewicz-Wójtowicz, dr Lidia Marek, dr Urszula Kazubowska, dr Ilona Walczowska, prof. US, dr hab. Maksymilian Chutorański, prof. US, dr Aneta Makowska"
+   }
+  ],
+  "zmiany": {
+   "PEDO1": [
+    {
+     "type": "note",
+     "date": "2026-10-07",
+     "post": 2,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.629Z"
+ }
+}

@@ -1,0 +1,839 @@
+{
+ "source": "https://nsp.usz.edu.pl/wp-content/uploads/POW-I-82.pdf",
+ "wersja": "POW-I-82.pdf",
+ "sha256": "7796c8452f04ea74698b7a1b0c1c1572cd561d9837d79c42c9811960e5ee6f75",
+ "kierunek": "Pedagogika opiekuńczo-wychowawcza",
+ "kierunekEn": "Care and Educational Pedagogy",
+ "id": "wns-pow-1-st-2024",
+ "kod": "pow24",
+ "wydzial": "WNS",
+ "rok": 3,
+ "stopien": 1,
+ "tryb": "st",
+ "rokAkademicki": "2026/2027",
+ "semestr": "zimowy",
+ "changedAt": "2026-11-09T22:36:16.379Z",
+ "checkedAt": "2026-11-09T23:20:35.811Z",
+ "groups": {
+  "POW3": {
+   "odd": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 144 ul. Krakowska"
+    },
+    {
+     "d": 0,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówce oświatowej (świetlica szkolna, bursa, internat)",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. J. Orzelska, prof. US",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Warsztat zabawy",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. J. Orzelska, prof.",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "s. 49 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 1,
+     "pl": "Psychologia rozwoju dziecka w okresie wczesnego dzieciństwa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Furmańska",
+     "r": "s. 011 ul. Krakowska 71-79",
+     "n": "ost zaj 21 I do g. 10:45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztat opiekuna małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Psychologia rozwoju dziecka w okresie wczesnego dzieciństwa",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr hab. M. Leszko",
+     "r": "s. 07 ul. Bud H, Krakowska",
+     "n": "pierwsze zaj od g. 10:50",
+     "dates": [
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztat opiekuna małego dziecka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztat opiekuna małego dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 14:15",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Placówki opieki nad dzieckiem do lat 3",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Współpraca placówki opiekuńczo-wychowawczej z rodziną",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 17:45; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Pedagogika resocjalizacyjna",
+     "k": "W",
+     "time": [
+      "08:10",
+      "11:40"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metodyka wspomagania wszechstronnego rozwoju dziecka",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Pedagogika resocjalizacyjna",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10"
+     ]
+    }
+   ],
+   "even": [
+    {
+     "d": 0,
+     "pl": "Język angielski",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr E. Stefanowska",
+     "r": "s. 109 ACKJ ul. Wawrzyniaka 15"
+    },
+    {
+     "d": 0,
+     "pl": "Język niemiecki",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "mgr J. Paśnicka-Stopa",
+     "r": "s. 144 ul. Krakowska"
+    },
+    {
+     "d": 0,
+     "pl": "Metodyka pracy opiekuńczo-wychowawczej w placówce oświatowej (świetlica szkolna, bursa, internat)",
+     "k": "W",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr hab. J. Orzelska, prof. US",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30",
+      "2026-12-07",
+      "2026-12-14",
+      "2026-12-21",
+      "2026-12-28",
+      "2027-01-04",
+      "2027-01-11",
+      "2027-01-18",
+      "2027-01-25",
+      "2027-02-01"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Warsztat zabawy",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr hab. J. Orzelska, prof.",
+     "r": "s. 203 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00",
+     "dates": [
+      "2026-10-12",
+      "2026-10-19",
+      "2026-10-26",
+      "2026-11-02",
+      "2026-11-09",
+      "2026-11-16",
+      "2026-11-23",
+      "2026-11-30"
+     ]
+    },
+    {
+     "d": 0,
+     "pl": "Seminarium dyplomowe",
+     "k": "S",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr B. Chojnacka",
+     "r": "s. 49 ul. Ogińskiego 16-17"
+    },
+    {
+     "d": 1,
+     "pl": "Psychologia rozwoju dziecka w okresie wczesnego dzieciństwa",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr J. Furmańska",
+     "r": "s. 011 ul. Krakowska 71-79",
+     "n": "ost zaj 21 I do g. 10:45",
+     "dates": [
+      "2026-10-06",
+      "2026-10-13",
+      "2026-10-20",
+      "2026-10-27",
+      "2026-11-03",
+      "2026-11-10",
+      "2026-11-17",
+      "2026-11-24"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztat opiekuna małego dziecka",
+     "k": "W",
+     "time": [
+      "08:15",
+      "09:45"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Psychologia rozwoju dziecka w okresie wczesnego dzieciństwa",
+     "k": "CW",
+     "time": [
+      "10:00",
+      "13:15"
+     ],
+     "p": "dr hab. M. Leszko",
+     "r": "s. 07 ul. Bud H, Krakowska",
+     "n": "pierwsze zaj od g. 10:50",
+     "dates": [
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztat opiekuna małego dziecka",
+     "k": "W",
+     "time": [
+      "10:00",
+      "11:30"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Warsztat opiekuna małego dziecka",
+     "k": "CW",
+     "time": [
+      "11:45",
+      "15:00"
+     ],
+     "p": "dr E. Mazurek",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 14:15",
+     "dates": [
+      "2026-10-14",
+      "2026-10-21",
+      "2026-10-28",
+      "2026-11-04"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Placówki opieki nad dzieckiem do lat 3",
+     "k": "W",
+     "time": [
+      "15:15",
+      "16:45"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 16:00; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 2,
+     "pl": "Współpraca placówki opiekuńczo-wychowawczej z rodziną",
+     "k": "CW",
+     "time": [
+      "17:00",
+      "18:30"
+     ],
+     "p": "dr U. Kazubowska",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "n": "ost zaj do g. 17:45; termin w inny dzień: 29.01",
+     "dates": [
+      "2026-12-02",
+      "2026-12-09",
+      "2026-12-16",
+      "2026-12-23",
+      "2026-12-30",
+      "2027-01-06",
+      "2027-01-13",
+      "2027-01-20",
+      "2027-01-27"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Pedagogika resocjalizacyjna",
+     "k": "W",
+     "time": [
+      "08:10",
+      "11:40"
+     ],
+     "p": "dr M. Zięciak",
+     "r": "s. 51 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Szkolenie – obrona cywilna",
+     "k": "X",
+     "time": [
+      "11:45",
+      "13:15"
+     ],
+     "r": "Aula WNS",
+     "dates": [
+      "2026-10-29"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Metodyka wspomagania wszechstronnego rozwoju dziecka",
+     "k": "W",
+     "time": [
+      "13:30",
+      "15:00"
+     ],
+     "p": "dr A. Jarzębińska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-15",
+      "2026-10-29",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-10",
+      "2026-12-17",
+      "2026-12-24",
+      "2026-12-31",
+      "2027-01-07",
+      "2027-01-14",
+      "2027-01-21",
+      "2027-01-28"
+     ]
+    },
+    {
+     "d": 3,
+     "pl": "Pedagogika resocjalizacyjna",
+     "k": "CW",
+     "time": [
+      "15:15",
+      "18:30"
+     ],
+     "p": "mgr A. Szczepkowska",
+     "r": "s. 52 ul. Ogińskiego 16-17",
+     "dates": [
+      "2026-10-08",
+      "2026-10-15",
+      "2026-10-22",
+      "2026-10-29",
+      "2026-11-05",
+      "2026-11-12",
+      "2026-11-19",
+      "2026-11-26",
+      "2026-12-03",
+      "2026-12-10"
+     ]
+    }
+   ]
+  }
+ },
+ "kalendarz": {
+  "start": "2026-09-28",
+  "tygodnie": [
+   [
+    "2026-10-02",
+    "2026-10-02",
+    "even"
+   ],
+   [
+    "2026-10-05",
+    "2026-10-09",
+    "odd"
+   ],
+   [
+    "2026-10-12",
+    "2026-10-16",
+    "even"
+   ],
+   [
+    "2026-10-19",
+    "2026-10-23",
+    "odd"
+   ],
+   [
+    "2026-10-26",
+    "2026-10-30",
+    "even"
+   ],
+   [
+    "2026-11-03",
+    "2026-11-06",
+    "odd"
+   ],
+   [
+    "2026-11-09",
+    "2026-11-13",
+    "even"
+   ],
+   [
+    "2026-11-16",
+    "2026-11-20",
+    "odd"
+   ],
+   [
+    "2026-11-23",
+    "2026-11-27",
+    "even"
+   ],
+   [
+    "2026-11-30",
+    "2026-12-04",
+    "odd"
+   ],
+   [
+    "2026-12-07",
+    "2026-12-11",
+    "even"
+   ],
+   [
+    "2026-12-14",
+    "2026-12-18",
+    "odd"
+   ],
+   [
+    "2026-12-21",
+    "2026-12-23",
+    "even"
+   ],
+   [
+    "2027-01-07",
+    "2027-01-08",
+    "even"
+   ],
+   [
+    "2027-01-11",
+    "2027-01-15",
+    "odd"
+   ],
+   [
+    "2027-01-18",
+    "2027-01-22",
+    "even"
+   ],
+   [
+    "2027-01-25",
+    "2027-01-29",
+    "odd"
+   ],
+   [
+    "2027-02-01",
+    "2027-02-01",
+    "even"
+   ]
+  ],
+  "wolne": {
+   "2026-10-01": "Dzień rektorski",
+   "2026-11-02": "Dzień rektorski",
+   "2026-11-11": "Narodowe Święto Niepodległości"
+  },
+  "zamiany": {
+   "2027-01-29": {
+    "p": "even",
+    "asDay": 2,
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+   }
+  },
+  "okresy": [
+   {
+    "od": "0000-01-01",
+    "do": "2026-10-01",
+    "opis": "Zajęcia zaczynają się 2 października"
+   },
+   {
+    "od": "2026-12-24",
+    "do": "2027-01-06",
+    "opis": "Przerwa świąteczna"
+   },
+   {
+    "od": "2027-02-02",
+    "do": "2027-02-15",
+    "opis": "Sesja egzaminacyjna (2–15.02)"
+   },
+   {
+    "od": "2027-02-16",
+    "do": "2027-02-21",
+    "opis": "Przerwa po sesji zimowej"
+   },
+   {
+    "od": "2027-02-22",
+    "do": "2027-02-28",
+    "opis": "Sesja poprawkowa (22–28.02)"
+   },
+   {
+    "od": "2027-03-01",
+    "do": "9999-12-31",
+    "opis": "Semestr letni: plan tygodni pojawi się, gdy wydział go opublikuje"
+   }
+  ]
+ },
+ "dziekanat": {
+  "source": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/",
+  "posts": [
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odpracowanie-zajec-z-dr-urszula-kazubowska-10-xi/",
+    "title": "Odpracowanie zajęć z dr Urszulą Kazubowską (10 XI)",
+    "ym": "2026-10",
+    "pub": "2026-10-30",
+    "text": "Szanowni studenci, Zajęcia z przedmiotu Metodyka rozwijania kompetencji społecznych w resocjalizacji z dr Urszulą Kazubowską za dzień 28.10.2026 zostaną odpracowane; w dniu 10.11.2026 w godzinach: 10.00-11.30 ćw. gr. 2 s. 51 Ogińskiego; 11.45-13.15 ćw. gr.1 s. 51 Ogińskiego, 13.30 – 16.40 s. 40 Ogińskiego (wykład)"
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolane-zajecia-z-dr-u-kazubowska-2/",
+    "title": "Odwołane zajęcia z dr U. Kazubowską",
+    "ym": "2026-10",
+    "pub": "2026-10-20",
+    "text": "Informujemy, że w dniach 21 X – 3 XI 2026 r. zajęcia z dr Kazubowską są dowołane."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/termin-odpracowania-zajec-z-dr-joanna-furmanska-kier-ped-op-wych/",
+    "title": "Termin odpracowania zajęć z dr Joanną Furmańską, kier. Ped-op-wych",
+    "ym": "2026-10",
+    "pub": "2026-10-19",
+    "text": "Szanowni Studenci, termin odrobienia zajęć z dnia 13.10.2026 na kierunku POW Psychologia rozwoju dziecka w okresie wczesnego dzieciństwa (w:15) odbędzie się 13.01.2027 godzina 8:15-9:45 sala 237K."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-zajec-z-dr-joanna-furmanska/",
+    "title": "Odwołanie zajęć z dr Joanną Furmańską",
+    "ym": "2026-10",
+    "pub": "2026-10-12",
+    "text": "Zajęcia z dr Joanną Furmańską zostają odwołane do dnia 16 października br."
+   },
+   {
+    "url": "https://dos.usz.edu.pl/krakowska/zajecia-krakowska/2026/10/odwolanie-i-zmiana-terminu-zajec-dr-joanny-furmanskiej-reso-i-pow/",
+    "title": "Odwołanie i zmiana terminu zajęć dr Joanny Furmańskiej (reso i pow)",
+    "ym": "2026-10",
+    "pub": "2026-10-05",
+    "text": "Informujemy, że zajęcia zaplanowane na 6 października i 24 listopada nie odbędą się. Terminy odrobienia: RESO I: za 06.10 na 01.12.2026 (wtorek) w godzinach 11:45-15:00 za 24.11 na 08.12.2026 (wtorek) w godzinach 11:45-14:15 POW I: za 06.10 na środę 8:15-9:45 na dzień 16.12.2026 za 24.11 na środę 8:15-9:45 dzień 23.12.2026."
+   }
+  ],
+  "zmiany": {
+   "POW3": [
+    {
+     "type": "note",
+     "date": "2026-10-06",
+     "post": 4,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-10-13",
+     "post": 2,
+     "niska": true
+    },
+    {
+     "type": "note",
+     "date": "2026-11-24",
+     "post": 4,
+     "niska": true
+    }
+   ]
+  },
+  "updatedAt": "2026-11-09T23:31:06.733Z"
+ }
+}
