@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-11T15:01:04.994Z",
+ "at": "2026-11-12T15:52:16.723Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -1775,8 +1775,8 @@
   {
    "id": "wh-gc-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
-   "wersja": "2026-10-13",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1785,8 +1785,8 @@
   {
    "id": "wh-gc-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
-   "wersja": "2026-10-13",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1795,8 +1795,8 @@
   {
    "id": "wh-gc-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
-   "wersja": "2026-10-13",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1805,12 +1805,12 @@
   {
    "id": "wh-gc-2-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-13-X-2026.xlsx",
-   "wersja": "2026-10-13",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/GC-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 16
+   "zajec": 18
   },
   {
    "id": "wh-hist-1-st-2026",
@@ -1965,8 +1965,8 @@
   {
    "id": "wh-mic-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
-   "wersja": "2026-11-05",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1975,8 +1975,8 @@
   {
    "id": "wh-mic-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
-   "wersja": "2026-11-05",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1985,8 +1985,8 @@
   {
    "id": "wh-mic-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-05-XI-2026.xlsx",
-   "wersja": "2026-11-05",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/MiC-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-12-XI-2026.xlsx",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2131,56 +2131,6 @@
    "szczegoly": "bez zmian",
    "grupy": 1,
    "zajec": 20
-  },
-  {
-   "id": "wh-fa-1-nst-2026",
-   "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
-   "wersja": "2026-11-03",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 264
-  },
-  {
-   "id": "wh-fa-1-nst-2025",
-   "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
-   "wersja": "2026-11-03",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 280
-  },
-  {
-   "id": "wh-fa-1-nst-2024",
-   "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
-   "wersja": "2026-11-03",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 178
-  },
-  {
-   "id": "wh-fa-2-nst-2026",
-   "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
-   "wersja": "2026-11-03",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 108
-  },
-  {
-   "id": "wh-fa-2-nst-2025",
-   "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FA-I-i-II-st.-niestacjonarne-plan-zajec-semestr-zimowy-2026_2027-zm.-nr-2-z-03-XI-2026.xlsx",
-   "wersja": "2026-11-03",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 134
   },
   {
    "id": "wh-fg-1-nst-2025",
@@ -3658,10 +3608,10 @@
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 58,
+   "zajec": 60,
    "kolejka": {
-    "pozycji": 29,
-    "doDecyzji": 29,
+    "pozycji": 30,
+    "doDecyzji": 30,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3857,8 +3807,8 @@
   {
    "id": "wnsip-ezn-1-st-2023",
    "wydzial": "wnsip",
-   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-1.pdf",
-   "wersja": "EZN_4-rok-I-st.-1.pdf",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/EZN_4-rok-I-st.-akt.-12.11..pdf",
+   "wersja": "2026-11-12",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
