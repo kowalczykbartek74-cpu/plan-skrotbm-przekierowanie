@@ -13,7 +13,7 @@
  "rokAkademicki": "2026/2027",
  "semestr": "zimowy",
  "changedAt": "2026-11-09T22:39:50.382Z",
- "checkedAt": "2026-11-19T15:36:27.483Z",
+ "checkedAt": "2026-11-20T15:13:16.733Z",
  "groups": {
   "TEO3": {
    "odd": [
@@ -443,27 +443,27 @@
    [
     "2027-01-07",
     "2027-01-08",
-    "even"
+    "odd"
    ],
    [
     "2027-01-11",
     "2027-01-15",
-    "odd"
+    "even"
    ],
    [
     "2027-01-18",
     "2027-01-22",
-    "even"
+    "odd"
    ],
    [
     "2027-01-25",
     "2027-01-29",
-    "odd"
+    "even"
    ],
    [
     "2027-02-01",
     "2027-02-01",
-    "even"
+    "odd"
    ]
   ],
   "wolne": {
@@ -473,9 +473,9 @@
   },
   "zamiany": {
    "2027-01-29": {
-    "p": "even",
+    "p": "odd",
     "asDay": 2,
-    "n": "Dzień zamienny: zajęcia jak w środę (tydzień parzysty)"
+    "n": "Dzień zamienny: zajęcia jak w środę (tydzień nieparzysty)"
    }
   },
   "okresy": [
