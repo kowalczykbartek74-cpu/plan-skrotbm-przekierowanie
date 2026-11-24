@@ -1,6 +1,6 @@
 {
  "opis": "Stan importu planów (update-plan.mjs --wszystkie). status: ok / bez zmian / czeka na zatwierdzenie / błąd (szczegoly: nowy, zmiana, bez zmian uczelni…). wydzial, zrodlo (adres strony/pliku), wersja (Aktualizacja planu albo data z nazwy pliku). Błąd = w plan/<id>.json zostaje poprzednia wersja.",
- "at": "2026-11-23T19:04:14.483Z",
+ "at": "2026-11-24T17:22:14.202Z",
  "roczniki": [
   {
    "id": "wefiz-af-2-st-2025",
@@ -8,7 +8,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 31
   },
@@ -18,7 +18,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 24
   },
@@ -28,7 +28,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 26
   },
@@ -38,7 +38,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 30
   },
@@ -48,7 +48,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 25
   },
@@ -58,7 +58,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 39
   },
@@ -68,7 +68,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 92
   },
@@ -78,7 +78,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 34
   },
@@ -88,7 +88,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 30
   },
@@ -98,7 +98,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 74
   },
@@ -108,7 +108,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 23
   },
@@ -118,7 +118,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 29
   },
@@ -128,7 +128,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 27
   },
@@ -138,7 +138,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 30
   },
@@ -148,7 +148,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 30
   },
@@ -158,7 +158,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 21
   },
@@ -168,7 +168,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 27
   },
@@ -178,7 +178,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 17
   },
@@ -188,7 +188,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 68
   },
@@ -198,7 +198,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 3,
    "zajec": 120
   },
@@ -208,7 +208,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 4,
    "zajec": 92
   },
@@ -218,7 +218,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 39
   },
@@ -228,7 +228,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 21
   },
@@ -238,7 +238,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 43
   },
@@ -248,7 +248,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 78
   },
@@ -258,7 +258,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 57
   },
@@ -268,7 +268,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 17
   },
@@ -278,7 +278,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 25
   },
@@ -288,7 +288,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 30
   },
@@ -298,7 +298,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 23
   },
@@ -308,7 +308,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 29
   },
@@ -318,7 +318,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 37
   },
@@ -328,7 +328,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 14
   },
@@ -338,7 +338,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 38
   },
@@ -348,7 +348,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 42
   },
@@ -358,7 +358,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 24
   },
@@ -368,7 +368,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 28
   },
@@ -378,7 +378,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 17
   },
@@ -388,9 +388,9 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
-   "zajec": 94
+   "zajec": 88
   },
   {
    "id": "wefiz-kipb-1-st-2025",
@@ -398,7 +398,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 86
   },
@@ -408,7 +408,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 3,
    "zajec": 75
   },
@@ -418,7 +418,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 72
   },
@@ -428,7 +428,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 39
   },
@@ -438,7 +438,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 20
   },
@@ -448,7 +448,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 30
   },
@@ -458,7 +458,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 36
   },
@@ -468,7 +468,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 25
   },
@@ -478,7 +478,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 69
   },
@@ -488,7 +488,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 40
   },
@@ -498,7 +498,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 49
   },
@@ -508,7 +508,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 31
   },
@@ -518,7 +518,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 37
   },
@@ -528,7 +528,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 15
   },
@@ -538,7 +538,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 58
   },
@@ -548,7 +548,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 3,
    "zajec": 46
   },
@@ -558,7 +558,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 29
   },
@@ -568,7 +568,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 37
   },
@@ -578,7 +578,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 27
   },
@@ -588,7 +588,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 22
   },
@@ -598,7 +598,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 20
   },
@@ -608,7 +608,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 78
   },
@@ -618,7 +618,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 35
   },
@@ -628,7 +628,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 45
   },
@@ -638,9 +638,9 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
-   "zajec": 84
+   "zajec": 87
   },
   {
    "id": "wefiz-zarz-1-st-2025",
@@ -648,7 +648,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 44
   },
@@ -658,7 +658,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 3,
    "zajec": 82
   },
@@ -668,7 +668,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 35
   },
@@ -678,7 +678,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 2,
    "zajec": 40
   },
@@ -688,7 +688,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 35
   },
@@ -698,7 +698,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 25
   },
@@ -708,7 +708,7 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
    "zajec": 46
   },
@@ -718,15 +718,15 @@
    "szczegoly": "bez zmian uczelni",
    "wydzial": "wefiz",
    "zrodlo": "https://planyzajec-efz.usz.edu.pl/",
-   "wersja": "23.11.2026 13:17",
+   "wersja": "24.11.2026 12:48",
    "grupy": 1,
-   "zajec": 28
+   "zajec": 30
   },
   {
    "id": "wefiz-af-2-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 2,
@@ -736,7 +736,7 @@
    "id": "wefiz-af-2-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 2,
@@ -746,7 +746,7 @@
    "id": "wefiz-ds-2-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -756,7 +756,7 @@
    "id": "wefiz-ds-2-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -766,7 +766,7 @@
    "id": "wefiz-ek-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -776,7 +776,7 @@
    "id": "wefiz-ek-1-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -786,7 +786,7 @@
    "id": "wefiz-ek-1-nst-2024",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -796,7 +796,7 @@
    "id": "wefiz-fir-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 2,
@@ -806,7 +806,7 @@
    "id": "wefiz-fir-1-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 2,
@@ -816,7 +816,7 @@
    "id": "wefiz-fir-1-nst-2024",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -826,7 +826,7 @@
    "id": "wefiz-fir-2-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -836,7 +836,7 @@
    "id": "wefiz-fir-2-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -846,7 +846,7 @@
    "id": "wefiz-iie-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -856,7 +856,7 @@
    "id": "wefiz-iie-1-nst-2024",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -866,7 +866,7 @@
    "id": "wefiz-log-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -876,27 +876,27 @@
    "id": "wefiz-log-1-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 108
+   "zajec": 110
   },
   {
    "id": "wefiz-log-1-nst-2024",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 114
+   "zajec": 116
   },
   {
    "id": "wefiz-log-2-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -906,7 +906,7 @@
    "id": "wefiz-log-2-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -916,7 +916,7 @@
    "id": "wefiz-li-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -926,7 +926,7 @@
    "id": "wefiz-li-1-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -936,7 +936,7 @@
    "id": "wefiz-li-1-nst-2024",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -946,7 +946,7 @@
    "id": "wefiz-li-1-nst-2023",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -956,7 +956,7 @@
    "id": "wefiz-mkt-2-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -966,7 +966,7 @@
    "id": "wefiz-mkt-2-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -976,7 +976,7 @@
    "id": "wefiz-tir-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -986,7 +986,7 @@
    "id": "wefiz-zarz-1-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -996,7 +996,7 @@
    "id": "wefiz-zarz-1-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1006,7 +1006,7 @@
    "id": "wefiz-zarz-1-nst-2024",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1016,7 +1016,7 @@
    "id": "wefiz-zarz-2-nst-2026",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1026,7 +1026,7 @@
    "id": "wefiz-zarz-2-nst-2025",
    "wydzial": "wefiz",
    "zrodlo": "https://efz.usz.edu.pl/studenci/planynst-lista-wykladowcow/",
-   "wersja": "planynst-fab9db0ee715",
+   "wersja": "planynst-0b4a55babbb5",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1046,7 +1046,7 @@
    "id": "wkfiz-wf-1-st-2026",
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
-   "wersja": "dane-9f09a6270fa9",
+   "wersja": "dane-03eae8fddefe",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1056,7 +1056,7 @@
    "id": "wkfiz-wf-1-st-2025",
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
-   "wersja": "dane-647c756c64f8",
+   "wersja": "dane-afd75d49aa50",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1196,7 +1196,7 @@
    "id": "wkfiz-ds-2-st-2026",
    "wydzial": "wkfiz",
    "zrodlo": "https://planyzajec-kfz.usz.edu.pl/index.html",
-   "wersja": "dane-e406de772c73",
+   "wersja": "dane-6413d2864d91",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1575,8 +1575,8 @@
   {
    "id": "wh-fh-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
-   "wersja": "2026-10-14",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1585,8 +1585,8 @@
   {
    "id": "wh-fh-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
-   "wersja": "2026-10-14",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1595,8 +1595,8 @@
   {
    "id": "wh-fh-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
-   "wersja": "2026-10-14",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1605,8 +1605,8 @@
   {
    "id": "wh-fh-2-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-14-X-2026.xlsx",
-   "wersja": "2026-10-14",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FH-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1615,8 +1615,8 @@
   {
    "id": "wh-fn-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1625,8 +1625,8 @@
   {
    "id": "wh-fn-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1635,8 +1635,8 @@
   {
    "id": "wh-fn-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FN-I-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1725,8 +1725,8 @@
   {
    "id": "wh-frzjo-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1735,8 +1735,8 @@
   {
    "id": "wh-frzjo-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1745,8 +1745,8 @@
   {
    "id": "wh-frzjo-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1755,8 +1755,8 @@
   {
    "id": "wh-from-2-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1765,8 +1765,8 @@
   {
    "id": "wh-from-2-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-23-XI-2026.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/FRZJOdW-I-st-i-FROM-II-st_plan-zajec-semestr-zimowy-2026_27-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1865,8 +1865,8 @@
   {
    "id": "wh-ita-1-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-19-XI-2026.xlsx",
-   "wersja": "2026-11-19",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1875,8 +1875,8 @@
   {
    "id": "wh-ita-1-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-19-XI-2026.xlsx",
-   "wersja": "2026-11-19",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1885,8 +1885,8 @@
   {
    "id": "wh-ita-1-st-2024",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-19-XI-2026.xlsx",
-   "wersja": "2026-11-19",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -1895,8 +1895,8 @@
   {
    "id": "wh-ita-2-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-19-XI-2026.xlsx",
-   "wersja": "2026-11-19",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/ITA-I-i-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2115,8 +2115,8 @@
   {
    "id": "wh-sp-2-st-2026",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-23-XI-2026-1.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2125,8 +2125,8 @@
   {
    "id": "wh-sp-2-st-2025",
    "wydzial": "wh",
-   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-23-XI-2026-1.xlsx",
-   "wersja": "2026-11-23",
+   "zrodlo": "https://hum.usz.edu.pl/wp-content/uploads/SP-II-st.-plan-zajec-semestr-zimowy-2026_2027-zm.-24-XI-2026.xlsx",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2352,8 +2352,8 @@
   {
    "id": "wns-ea-1-st-2026",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-128.pdf",
-   "wersja": "EA-I-128.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-129.pdf",
+   "wersja": "EA-I-129.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2369,8 +2369,8 @@
   {
    "id": "wns-ea-1-st-2025",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-128.pdf",
-   "wersja": "EA-I-128.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-129.pdf",
+   "wersja": "EA-I-129.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2386,15 +2386,15 @@
   {
    "id": "wns-ea-1-st-2024",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-128.pdf",
-   "wersja": "EA-I-128.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/EA-I-129.pdf",
+   "wersja": "EA-I-129.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 42,
+   "zajec": 46,
    "kolejka": {
-    "pozycji": 21,
-    "doDecyzji": 21,
+    "pozycji": 23,
+    "doDecyzji": 23,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -2573,8 +2573,8 @@
   {
    "id": "wns-pedo-1-st-2026",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
-   "wersja": "PedO-I-128.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-129.pdf",
+   "wersja": "PedO-I-129.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2590,8 +2590,8 @@
   {
    "id": "wns-pedo-1-st-2025",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
-   "wersja": "PedO-I-128.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-129.pdf",
+   "wersja": "PedO-I-129.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2607,8 +2607,8 @@
   {
    "id": "wns-pedo-1-st-2024",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-128.pdf",
-   "wersja": "PedO-I-128.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-I-129.pdf",
+   "wersja": "PedO-I-129.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2624,8 +2624,8 @@
   {
    "id": "wns-pedo-2-st-2026",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
-   "wersja": "PedO-II-79.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-81.pdf",
+   "wersja": "PedO-II-81.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -2641,8 +2641,8 @@
   {
    "id": "wns-pedo-2-st-2025",
    "wydzial": "wns",
-   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-79.pdf",
-   "wersja": "PedO-II-79.pdf",
+   "zrodlo": "https://nsp.usz.edu.pl/wp-content/uploads/PedO-II-81.pdf",
+   "wersja": "PedO-II-81.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -3412,10 +3412,10 @@
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 56,
+   "zajec": 54,
    "kolejka": {
-    "pozycji": 28,
-    "doDecyzji": 28,
+    "pozycji": 27,
+    "doDecyzji": 27,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3497,10 +3497,10 @@
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 60,
+   "zajec": 56,
    "kolejka": {
-    "pozycji": 30,
-    "doDecyzji": 30,
+    "pozycji": 28,
+    "doDecyzji": 28,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -3667,10 +3667,10 @@
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 62,
+   "zajec": 64,
    "kolejka": {
-    "pozycji": 31,
-    "doDecyzji": 31,
+    "pozycji": 32,
+    "doDecyzji": 32,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -4257,8 +4257,8 @@
   {
    "id": "wnsip-ocean-1-st-2024",
    "wydzial": "wnsip",
-   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt.-09.11..pdf",
-   "wersja": "2026-11-09",
+   "zrodlo": "https://spr.usz.edu.pl/wp-content/uploads/oceanografia-I-st.-3-rok-akt.-24.11.pdf",
+   "wersja": "2026-11-24",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -4733,8 +4733,8 @@
   {
    "id": "wpia-prawo-0-nst-2025",
    "wydzial": "wpia",
-   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-12.pdf",
-   "wersja": "II-NSP-12.pdf",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/II-NSP-13.pdf",
+   "wersja": "II-NSP-13.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -4750,8 +4750,8 @@
   {
    "id": "wpia-prawo-0-nst-2024",
    "wydzial": "wpia",
-   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-5.pdf",
-   "wersja": "III-NSP-5.pdf",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSP-6.pdf",
+   "wersja": "III-NSP-6.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -4767,15 +4767,15 @@
   {
    "id": "wpia-prawo-0-nst-2023",
    "wydzial": "wpia",
-   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-7.pdf",
-   "wersja": "IV-NSP-7.pdf",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/IV-NSP-8.pdf",
+   "wersja": "IV-NSP-8.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
-   "zajec": 222,
+   "zajec": 220,
    "kolejka": {
-    "pozycji": 111,
-    "doDecyzji": 111,
+    "pozycji": 110,
+    "doDecyzji": 110,
     "wyslany": true,
     "blad": null,
     "odRazu": true
@@ -4835,8 +4835,8 @@
   {
    "id": "wpia-adm-1-nst-2024",
    "wydzial": "wpia",
-   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSA-I-st.-4.pdf",
-   "wersja": "III-NSA-I-st.-4.pdf",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/III-NSA-I-st.-5.pdf",
+   "wersja": "III-NSA-I-st.-5.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -4869,8 +4869,8 @@
   {
    "id": "wpia-psm-1-nst-2026",
    "wydzial": "wpia",
-   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-7.pdf",
-   "wersja": "I-NPSM-I-st.-7.pdf",
+   "zrodlo": "https://wpia.usz.edu.pl/wp-content/uploads/I-NPSM-I-st.-8.pdf",
+   "wersja": "I-NPSM-I-st.-8.pdf",
    "status": "bez zmian",
    "szczegoly": "bez zmian",
    "grupy": 1,
@@ -4988,150 +4988,45 @@
   {
    "id": "wt-nor-1-st-2026",
    "wydzial": "wt",
-   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
-   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 24,
-   "kolejka": {
-    "pozycji": 12,
-    "doDecyzji": 12,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
+   "zrodlo": null,
+   "wersja": null,
+   "status": "błąd",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   },
   {
    "id": "wt-nor-1-st-2025",
    "wydzial": "wt",
-   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
-   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 22,
-   "kolejka": {
-    "pozycji": 11,
-    "doDecyzji": 11,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
+   "zrodlo": null,
+   "wersja": null,
+   "status": "błąd",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   },
   {
    "id": "wt-nor-1-st-2024",
    "wydzial": "wt",
-   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
-   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 22,
-   "kolejka": {
-    "pozycji": 11,
-    "doDecyzji": 11,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
+   "zrodlo": null,
+   "wersja": null,
+   "status": "błąd",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   },
   {
    "id": "wt-nor-2-st-2026",
    "wydzial": "wt",
-   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
-   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 22,
-   "kolejka": {
-    "pozycji": 11,
-    "doDecyzji": 11,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
+   "zrodlo": null,
+   "wersja": null,
+   "status": "błąd",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   },
   {
    "id": "wt-nor-2-st-2025",
    "wydzial": "wt",
-   "zrodlo": "https://teo.usz.edu.pl/wp-content/uploads/Plan-NOR-2026-27a.pdf",
-   "wersja": "Plan-NOR-2026-27a.pdf (aktualizacja 08.10.2026)",
-   "status": "bez zmian",
-   "szczegoly": "bez zmian",
-   "grupy": 1,
-   "zajec": 18,
-   "kolejka": {
-    "pozycji": 9,
-    "doDecyzji": 9,
-    "wyslany": true,
-    "blad": null,
-    "odRazu": true
-   }
+   "zrodlo": null,
+   "wersja": null,
+   "status": "błąd",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   }
  ],
  "log": [
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-iwb-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-kipb-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-li-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-log-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-pii-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-tir-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-zarz-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-zloz-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-08T20:55:41.748Z",
-   "id": "wefiz-zoze-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-biwg-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-eaia-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
-  {
-   "at": "2026-11-09T17:14:20.439Z",
-   "id": "wefiz-ek-1-st-2026",
-   "blad": "brak odpowiedzi uczelni: plan"
-  },
   {
    "at": "2026-11-09T17:14:20.439Z",
    "id": "wefiz-fir-1-st-2026",
@@ -6071,6 +5966,66 @@
    "at": "2026-11-23T19:04:14.483Z",
    "id": "wns-pedsp-0-st-2024",
    "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-24T15:54:02.172Z",
+   "id": "wns-pedsp-0-st-2024",
+   "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-24T15:54:02.172Z",
+   "id": "wt-nor-1-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T15:54:02.172Z",
+   "id": "wt-nor-1-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T15:54:02.172Z",
+   "id": "wt-nor-1-st-2024",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T15:54:02.172Z",
+   "id": "wt-nor-2-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T15:54:02.172Z",
+   "id": "wt-nor-2-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T17:22:14.202Z",
+   "id": "wns-pedsp-0-st-2024",
+   "blad": "Liczba zajęć spadła z 26 do 18 (o ponad 30%). Zostaje poprzednia wersja."
+  },
+  {
+   "at": "2026-11-24T17:22:14.202Z",
+   "id": "wt-nor-1-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T17:22:14.202Z",
+   "id": "wt-nor-1-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T17:22:14.202Z",
+   "id": "wt-nor-1-st-2024",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T17:22:14.202Z",
+   "id": "wt-nor-2-st-2026",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
+  },
+  {
+   "at": "2026-11-24T17:22:14.202Z",
+   "id": "wt-nor-2-st-2025",
+   "blad": "skan bez odczytu: odczyt dotyczy innej wersji pliku (26491ec1 ≠ 3de6e2d9); wgraj Plan-NOR-2026-27a.pdf w zdawalni.pl → Importy (profil WT) albo dodaj odczyty/wt/Plan-NOR-2026-27a.json"
   }
  ]
 }
